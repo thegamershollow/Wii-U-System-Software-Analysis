@@ -1,0 +1,2 @@
+<Region>    cRegion_Us
+<Lang>    cLang_En

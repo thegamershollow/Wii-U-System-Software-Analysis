@@ -1,0 +1,101 @@
+# WagonU list of files/folder for migration;
+# 1. each line contains path for migration;
+# 2. each line should end in ';';
+# 3. lines prefixed with '-' exclude path from migration;
+# 4. lines prefixed with '!' require atomic commit
+# 5. lines prefixed wtih '%' require progress tracking
+# 6. folder path ending in '.' will only copy top level folder;
+
+# COMPAT SLC ###################################################;
+
+## SYSTEM FILES ####################################;
+
+### ES related files;
+%/vol/compat_slc/sys;
+!/vol/compat_slc/sys;
+ /vol/compat_slc/sys;
+
+### System configuration;
+-/vol/compat_slc/shared2/test;
+-/vol/compat_slc/shared2/test2;
+-/vol/compat_slc/shared2/wc24/nwc24msg.cfg;
+-/vol/compat_slc/shared2/wc24/nwc24msg.cbk;
+-/vol/compat_slc/shared2/wc24/mbox/dlcnt.bin;
+!/vol/compat_slc/shared2/sys;
+%/vol/compat_slc/shared2;
+ /vol/compat_slc/shared2;
+
+### IOS and system menu;
+-/vol/compat_slc/title/00000001/*/content;
+-/vol/compat_slc/title/00000001/00000002/data/setting.txt;
+!/vol/compat_slc/title/00000001/*;
+%/vol/compat_slc/title/00000001/*;
+ /vol/compat_slc/title/00000001;
+
+### System NAND apps (ignores Compat shop's save data);
+-/vol/compat_slc/title/00010002/*/content;
+-/vol/compat_slc/title/00010002/48414241/data;
+-/vol/compat_slc/title/00010002/48414243/data;
+-/vol/compat_slc/title/00010002/48414245/data;
+-/vol/compat_slc/title/00010002/4841424a/data;
+-/vol/compat_slc/title/00010002/4841424b/data;
+-/vol/compat_slc/title/00010002/48414250/data;
+!/vol/compat_slc/title/00010002/*;
+%/vol/compat_slc/title/00010002/*;
+ /vol/compat_slc/title/00010002;
+
+### System NAND apps (2);
+-/vol/compat_slc/title/00010003/*/content;
+!/vol/compat_slc/title/00010003/*;
+%/vol/compat_slc/title/00010003/*;
+ /vol/compat_slc/title/00010003;
+
+### System NAND apps (hidden);
+-/vol/compat_slc/title/00010008/*/content;
+!/vol/compat_slc/title/00010008/*;
+%/vol/compat_slc/title/00010008/*;
+ /vol/compat_slc/title/00010008;
+
+## USER FILES ######################################;
+
+### Disc apps (ignores Photo channel key);
+-/vol/compat_slc/title/00010000/48415A41;
+-/vol/compat_slc/title/00010000/*/data/*;
+%/vol/compat_slc/title/00010000/*;
+ /vol/compat_slc/title/00010000;
+
+### User NAND apps;
+-/vol/compat_slc/title/00010001/*/data/*;
+%/vol/compat_slc/title/00010001/*;
+ /vol/compat_slc/title/00010001;
+
+### TMD of User Disc/NAND apps (MarioCartWii, WiiFit, and etc.);
+# /vol/compat_slc/title/00010004/*/content/title.tmd;
+
+### User Disc/NAND apps (MarioCartWii, WiiFit, and etc.);
+# -/vol/compat_slc/title/00010004/*/content;
+# -/vol/compat_slc/title/00010004/*/data/*;
+# %/vol/compat_slc/title/00010004/*;
+# /vol/compat_slc/title/00010004;
+
+### Data only title;
+-/vol/compat_slc/title/00010005/*/data/*;
+%/vol/compat_slc/title/00010005/*;
+ /vol/compat_slc/title/00010005;
+
+### User NAND apps (2);
+-/vol/compat_slc/title/00010006/*/data/*;
+%/vol/compat_slc/title/00010006/*;
+ /vol/compat_slc/title/00010006;
+
+### User NAND apps (hidden);
+-/vol/compat_slc/title/00010007/*/data/*;
+%/vol/compat_slc/title/00010007/*;
+ /vol/compat_slc/title/00010007;
+
+### Reserved;
+-/vol/compat_slc/title/00010009/*/data/*;
+%/vol/compat_slc/title/00010009/*;
+ /vol/compat_slc/title/00010009;
+
+################################################################;

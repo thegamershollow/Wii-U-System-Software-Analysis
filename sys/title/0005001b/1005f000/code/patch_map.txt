@@ -1,0 +1,20 @@
+# Patch map:
+# Maps title id of application to a specially patched OS.
+#
+# Each line is in the following format:
+#
+# title_id:title_version:base_os_id:patch_os_id
+#
+# Lines starting with '#' are ignored.
+# 
+# e.g. the following line
+#
+# 0x0005000000000001:12345:0x00050000000000002:0x0005000000000003
+#
+# will instruct system to use patched OS 0x0005000000000003
+# with game 0x000500000000001 that has a version 12345 and
+# requires OS 0x0005000000000002
+#
+# setting title_version to '-1' will instruct system to ignore version field and
+# apply os patch for all version of the application
+#

@@ -1,0 +1,106 @@
+# WagonU list of files/folder for migration;
+# 1. each line contains path for migration;
+# 2. each line should end in ';';
+# 3. lines prefixed with '-' exclude path from migration;
+# 4. lines prefixed with '!' require atomic commit
+# 5. lines prefixed wtih '%' require progress tracking
+# 6. folder path ending in '.' will only copy top level folder;
+
+# SLC;
+-/vol/system_slc/security/digest.bin;
+-/vol/system_slc/security/ivs.bin;
+%/vol/system_slc/security;
+ /vol/system_slc/security;
+ /vol/system_slc/config/eco.xml;
+
+-/vol/system_slc/proc/prefs/btStd.xml;
+-/vol/system_slc/proc/prefs/AVMCfg.xml;
+-/vol/system_slc/proc/prefs/hdmiEDID.xml;
+-/vol/system_slc/proc/prefs/NETCmn.xml;
+-/vol/system_slc/proc/prefs/NETCfg0.xml;
+-/vol/system_slc/proc/prefs/NETCfg1.xml;
+-/vol/system_slc/proc/prefs/NETCfg2.xml;
+-/vol/system_slc/proc/prefs/NETCfg3.xml;
+-/vol/system_slc/proc/prefs/NETCfg4.xml;
+-/vol/system_slc/proc/prefs/NETCfg5.xml;
+-/vol/system_slc/proc/prefs/DRCCfg.xml;
+-/vol/system_slc/proc/prefs/rmtCfg.xml;
+%/vol/system_slc/proc/prefs;
+!/vol/system_slc/proc/prefs;
+ /vol/system_slc/proc/prefs;
+
+-/vol/system_slc/proc/demol/db;
+%/vol/system_slc/proc/demol;
+ /vol/system_slc/proc/demol;
+
+
+
+# MLC;
+
+-/vol/storage_mlc01/usr/save/system/acp/networkTime;
+-/vol/storage_mlc01/usr/save/system/acp/drcLed;
+-/vol/storage_mlc01/usr/save/system/act/transid.dat
+-/vol/storage_mlc01/usr/save/system/act/uuid.dat
+-/vol/storage_mlc01/usr/save/system/nim;
+-/vol/storage_mlc01/usr/save/system/no_delete/00050000/10100d00;
+-/vol/storage_mlc01/usr/save/system/no_delete/00050000/10149600;
+-/vol/storage_mlc01/usr/save/system/no_delete/group;
+-/vol/storage_mlc01/usr/save/00050010/10062000;
+-/vol/storage_mlc01/usr/save/00050010/10062100;
+-/vol/storage_mlc01/usr/save/00050010/10062200;
+%/vol/storage_mlc01/usr/save;
+ /vol/storage_mlc01/usr/save;
+
+-/vol/storage_mlc01/usr/boss/00050010/10062000;
+-/vol/storage_mlc01/usr/boss/00050010/10062100;
+-/vol/storage_mlc01/usr/boss/00050010/10062200;
+-/vol/storage_mlc01/usr/boss/00050010/10040000/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040000/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040100/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040100/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040200/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040200/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040300/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040300/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040400/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040400/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040500/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040500/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040600/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040600/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040700/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040700/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040800/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040800/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040900/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040900/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040a00/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040a00/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040b00/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040b00/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040c00/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040c00/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040d00/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040d00/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040e00/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040e00/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/10040f00/user/*/oltopic/rawcontent.dat;
+-/vol/storage_mlc01/usr/boss/00050010/10040f00/user/*/oltopic/.upconfg;
+-/vol/storage_mlc01/usr/boss/00050010/1001200A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/1001210A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/1001220A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/1001230A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/1001240A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/1001250A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/1001260A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/1001270A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/1001280A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/1001290A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/10012a0A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/10012b0A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/10012c0A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/10012d0A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/10012e0A/user/*/.preport;
+-/vol/storage_mlc01/usr/boss/00050010/10012f0A/user/*/.preport;
+%/vol/storage_mlc01/usr/boss;
+ /vol/storage_mlc01/usr/boss;

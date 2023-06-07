@@ -1,0 +1,1 @@
+app.xml cos.xml miiverse_post.rpx memo.rpl mw_shamo.rpl mw_shamo_aac.rpl mw_shamo_sbc.rpl mw_shamo_x264.rpl mvplayer.rpl mvplayer-sbc.rpl

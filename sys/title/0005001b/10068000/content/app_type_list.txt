@@ -1,0 +1,4 @@
+[Data-Title]
+index : APP_TYPE
+ 0     : 0x80000000 // MCP_APP_TYPE_GAME
+ 1     : 0x8000002E // MCP_APP_TYPE_GAME_HAI

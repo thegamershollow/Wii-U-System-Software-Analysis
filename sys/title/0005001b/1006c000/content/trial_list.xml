@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trial type="complex" version="5.1.0">
+  <!--ここから、夏のキャンペーンタイトル-->
+  <!--↓Nintendo Land-->
+  <title type="complex">
+    <title_id_trial type="hexBinary" length="8">0005000010185100</title_id_trial>
+    <title_id_product type="hexBinary" length="8">0005000010101F00</title_id_product>
+    <product_code_trial type="string" length="32">WUP-N-SZLJ</product_code_trial>
+    <product_code_product type="string" length="32">WUP-P-ALCJ</product_code_product>
+    <release_start_date type="string" length="32">20140801</release_start_date>
+    <release_start_time type="string" length="32">0000</release_start_time>
+    <release_end_date type="string" length="32">20141101</release_end_date>
+    <release_end_time type="string" length="32">0000</release_end_time>
+    <discount_start_date type="string" length="32">20140801</discount_start_date>
+    <discount_start_time type="string" length="32">0000</discount_start_time>
+    <discount_end_date type="string" length="32">20141201</discount_end_date>
+    <discount_end_time type="string" length="32">0000</discount_end_time>
+    <discount_rate type="unsignedInt" length="4">40</discount_rate>
+    <trial_time type="unsignedInt" length="4">31</trial_time>
+  </title>
+  <!--↓NewマリオブラザーズU-->
+  <title type="complex">
+    <title_id_trial type="hexBinary" length="8">0005000010185200</title_id_trial>
+    <title_id_product type="hexBinary" length="8">0005000010101C00</title_id_product>
+    <product_code_trial type="string" length="32">WUP-N-SZMJ</product_code_trial>
+    <product_code_product type="string" length="32">WUP-P-ARPJ</product_code_product>
+    <release_start_date type="string" length="32">20140801</release_start_date>
+    <release_start_time type="string" length="32">0000</release_start_time>
+    <release_end_date type="string" length="32">20141101</release_end_date>
+    <release_end_time type="string" length="32">0000</release_end_time>
+    <discount_start_date type="string" length="32">20140801</discount_start_date>
+    <discount_start_time type="string" length="32">0000</discount_start_time>
+    <discount_end_date type="string" length="32">20141201</discount_end_date>
+    <discount_end_time type="string" length="32">0000</discount_end_time>
+    <discount_rate type="unsignedInt" length="4">40</discount_rate>
+    <trial_time type="unsignedInt" length="4">31</trial_time>
+  </title>
+  <!--↓ピクミン3-->
+  <title type="complex">
+    <title_id_trial type="hexBinary" length="8">0005000010185300</title_id_trial>
+    <title_id_product type="hexBinary" length="8">000500001012BC00</title_id_product>
+    <product_code_trial type="string" length="32">WUP-N-SZPJ</product_code_trial>
+    <product_code_product type="string" length="32">WUP-P-AC3J</product_code_product>
+    <release_start_date type="string" length="32">20140801</release_start_date>
+    <release_start_time type="string" length="32">0000</release_start_time>
+    <release_end_date type="string" length="32">20141101</release_end_date>
+    <release_end_time type="string" length="32">0000</release_end_time>
+    <discount_start_date type="string" length="32">20140801</discount_start_date>
+    <discount_start_time type="string" length="32">0000</discount_start_time>
+    <discount_end_date type="string" length="32">20141201</discount_end_date>
+    <discount_end_time type="string" length="32">0000</discount_end_time>
+    <discount_rate type="unsignedInt" length="4">40</discount_rate>
+    <trial_time type="unsignedInt" length="4">31</trial_time>
+  </title>
+  <!--↓ゼルダの伝説 風のタクト-->
+  <title type="complex">
+    <title_id_trial type="hexBinary" length="8">0005000010185400</title_id_trial>
+    <title_id_product type="hexBinary" length="8">0005000010143400</title_id_product>
+    <product_code_trial type="string" length="32">WUP-N-SZZJ</product_code_trial>
+    <product_code_product type="string" length="32">WUP-P-BCZJ</product_code_product>
+    <release_start_date type="string" length="32">20140801</release_start_date>
+    <release_start_time type="string" length="32">0000</release_start_time>
+    <release_end_date type="string" length="32">20141101</release_end_date>
+    <release_end_time type="string" length="32">0000</release_end_time>
+    <discount_start_date type="string" length="32">20140801</discount_start_date>
+    <discount_start_time type="string" length="32">0000</discount_start_time>
+    <discount_end_date type="string" length="32">20141201</discount_end_date>
+    <discount_end_time type="string" length="32">0000</discount_end_time>
+    <discount_rate type="unsignedInt" length="4">40</discount_rate>
+    <trial_time type="unsignedInt" length="4">31</trial_time>
+  </title>
+  <!--↓Game & Wario-->
+  <title type="complex">
+    <title_id_trial type="hexBinary" length="8">0005000010185500</title_id_trial>
+    <title_id_product type="hexBinary" length="8">0005000010112D00</title_id_product>
+    <product_code_trial type="string" length="32">WUP-N-SSAJ</product_code_trial>
+    <product_code_product type="string" length="32">WUP-P-ASAJ</product_code_product>
+    <release_start_date type="string" length="32">20140801</release_start_date>
+    <release_start_time type="string" length="32">0000</release_start_time>
+    <release_end_date type="string" length="32">20141101</release_end_date>
+    <release_end_time type="string" length="32">0000</release_end_time>
+    <discount_start_date type="string" length="32">20140801</discount_start_date>
+    <discount_start_time type="string" length="32">0000</discount_start_time>
+    <discount_end_date type="string" length="32">20141201</discount_end_date>
+    <discount_end_time type="string" length="32">0000</discount_end_time>
+    <discount_rate type="unsignedInt" length="4">40</discount_rate>
+    <trial_time type="unsignedInt" length="4">31</trial_time>
+  </title>
+  <!--↓The Wonderful 101-->
+  <title type="complex">
+    <title_id_trial type="hexBinary" length="8">0005000010185600</title_id_trial>
+    <title_id_product type="hexBinary" length="8">0005000010116300</title_id_product>
+    <product_code_trial type="string" length="32">WUP-N-SZCJ</product_code_trial>
+    <product_code_product type="string" length="32">WUP-P-ACMJ</product_code_product>
+    <release_start_date type="string" length="32">20140801</release_start_date>
+    <release_start_time type="string" length="32">0000</release_start_time>
+    <release_end_date type="string" length="32">20141101</release_end_date>
+    <release_end_time type="string" length="32">0000</release_end_time>
+    <discount_start_date type="string" length="32">20140801</discount_start_date>
+    <discount_start_time type="string" length="32">0000</discount_start_time>
+    <discount_end_date type="string" length="32">20141201</discount_end_date>
+    <discount_end_time type="string" length="32">0000</discount_end_time>
+    <discount_rate type="unsignedInt" length="4">40</discount_rate>
+    <trial_time type="unsignedInt" length="4">31</trial_time>
+  </title>
+</trial>
