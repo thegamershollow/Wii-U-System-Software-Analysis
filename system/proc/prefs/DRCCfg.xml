@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<DRCCfg type="complex" access="7777"> 
+  <rumble type="unsignedInt" length="4">0</rumble> 
+  <messageLED type="unsignedInt" length="4">0</messageLED> 
+  <audioMode type="unsignedInt" length="4">2</audioMode> 
+  <versionCheckFlag type="unsignedInt" length="4">0</versionCheckFlag> 
+  <remote0 type="complex"> 
+    <vendor type="string" length="65">LG</vendor> 
+    <deviceId type="unsignedInt" length="4">0</deviceId> 
+    <signalId type="string" length="6">T1423</signalId> 
+  </remote0> 
+  <remote1 type="complex"> 
+    <vendor type="string" length="65">dummy</vendor> 
+    <deviceId type="unsignedInt" length="4">1</deviceId> 
+    <signalId type="string" length="6" /> 
+  </remote1> 
+</DRCCfg>

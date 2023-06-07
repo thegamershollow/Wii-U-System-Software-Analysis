@@ -1,0 +1,220 @@
+2022-01-25 17:36:04
+Cafe OS SDK Version 2.13.01 Build 69088 Branch sdk_2_13
+Espresso:       0x0000700100000201
+Latte:          0x0000409f
+System mode:    0x100000
+Boot flags:     0x84010000
+Security Level: 0x1e
+Key Type:       0xfffffffc
+Prod Version:   0x5
+Serial:         910392639
+Model:          WUP-101(02)
+Prod Area:      0x2
+Game Area:      0x2
+5GHz Code:      0x7
+BOOT1:          0x20b9
+DRH:            0x190c
+BT:             0x205
++0x000500301001110a:0x00000064
++0x000500301001010a:0x000000c5
++0x000500101004e100:0x00000081
+-0x000500101004e100:0x00000081
++0x0005001010040100:0x000000d5
+-0x0005001010040100:0x000000d5
++0x000500101004e100:0x00000081
+-0x000500101004e100:0x00000081
++0x000500101004a100:0x00000032
+-0x000500101004a100:0x00000032
++0x0005001010040100:0x000000d5
+-0x0005001010040100:0x000000d5
++0x000500101004e100:0x00000081
+-0x000500101004e100:0x00000081
++0x000500101004a100:0x00000032
+-0x000500101004a100:0x00000032
++0x0005001010040100:0x000000d5
++0x000500301001210a:0x00000102
+-0x0005001010040100:0x000000d5
+-0x000500301001210a:0x00000102
++0x0005001010047100:0x000000c5
+bjpeg-turbo.rpl
+00:03:32:400: ISFS: fs_ops.c(613) Invalid inode name libjpeg-turbo.rpl
+00:03:32:420: ISFS: fs_ops.c(613)Invalid inode name libwkc_wiiu.rpl
+00:03:32:420: ISFS: fs_ops.c(613) Invalid inode name libwkc_wiiu.rpl
+00;03;32;553: SYSAPP: RPL Load00;03;32;572: OSSetting_SynchronousPrinting DISABLED00;03;32;577: OSSetting_CrashDumpType 0, MINI dump after crash00;03;32;614: TCL(8): init DONE00:03:32:784: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
+00;03;32;664: VPADInit() depricated, no need to call00;03;32;664: port 0 attached00;03;32;665: VPAD Init end, BPERF: (0/212784843) Title PID=800;03;32;701:    ACP_AutoInit: start00;03;32;702:    ACP_AutoInit: ACPInitialize complete00;03;32;702:    ACP_AutoInit: ACPSaveDataInit complete00;03;32;706:    ACP_AutoInit: ACPNotifyPlayEvent complete00;03;32;714:    ACP_AutoInit: NDMInitialize complete00;03;32;714: ACP: initialized00:03:32:860: ACP: Mounting "/vol/save/" on "/vol/storage_mlc01/usr/save/00050030/10012100/user/"
+00:03:32:860: ACP: Mount done (0)
+00;03;32;715: ==== sysapp:dump data 91 ====00;03;32;715:         <sys:caller_id size=8>Menu<sys:caller_process size=4>mlc <sys:caller_device size=4>00;03;32;952: WPAD: WPADRegisterAllocator is deprecated. Call no longer required.00;03;32;953: WPAD: Application Init00:03:33:082: IM: home button was pressed by type: IM_PAD_TYPE_WIIU_DRC index: 0
+00;03;32;963: VPADInit() depricated, no need to call00;03;32;963: ----- Start of SurfArgs -----00;03;32;963: [AppJump]get(callerUPID) : 200;03;33;083: [AppJump] MainApp title is "Wii U Menu".00;03;33;083: URL : NULL00;03;33;083: RURL : NULL00;03;33;083: AUTH : 000;03;33;083: ------ End of SurfArgs ------00:03:33:359: IM: home button was pressed by type: IM_PAD_TYPE_WIIU_DRC index: 0
+00:03:33:979: ISFS: fs_ops.c(613)Invalid inode name mvplayer-gui.rpl
+00:03:33:980: ISFS: fs_ops.c(613) Invalid inode name mvplayer-gui.rpl
+00;03;33;863: Error: Could not load acquired RPL "mvplayer-gui".00:03:34:299: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:03:34:300: [WD]>>>> Linkup msg from Net
+00:03:34:302: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:03:34:303: NET: Change admin state (1 -> 1)(iface:0 link:2)
+00:03:34:303: [WD]>>>> Linkup msg from Net
+00:03:34:307: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00;03;34;554: rpl_entry00;03;34;554: SWKBD: OSDynLoad_Acquire() use [3133820/3670016]00;03;34;554: SWKBD: client version 3.00;03;34;554: SWKBD: thread=0x26e4cae0, stackSize=      64 KB, stackBase=0x26e4caa4, stackEnd=0x26e3caa4 (SwkbdCreate)00:03:37:307: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:03:37:307: [WD]>>>> Linkup msg from Net
+00:03:37:311: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:03:40:311: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:03:40:312: [WD]>>>> Linkup msg from Net
+00:03:40:316: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:03:42:300: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:03:42:301: [WD]>>>> Linkup msg from Net
+00:03:42:303: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:03:42:304: NET: Change admin state (1 -> 1)(iface:0 link:2)
+00:03:42:304: [WD]>>>> Linkup msg from Net
+00:03:42:308: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:03:45:309: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:03:45:309: [WD]>>>> Linkup msg from Net
+00:03:45:313: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:03:45:865: MCP: PID 14 requested to disable power transitions
+00;03;45;745: DRC HOME Button Pressed! 00;03;45;745: __set_button_state : setting state to 300;03;46;742: [AppJump] no request.00;03;47;419: KPAD: KPADDisableMpls(@3069) !!!Error: Don't call from UPID=8. This operation will be ignored in the future00;03;47;419: KPAD: KPADDisableMpls(@3069) !!!Error: Don't call from UPID=8. This operation will be ignored in the future00;03;47;419: KPAD: KPADDisableMpls(@3069) !!!Error: Don't call from UPID=8. This operation will be ignored in the future00;03;47;419: KPAD: KPADDisableMpls(@3069) !!!Error: Don't call from UPID=8. This operation will be ignored in the future00;03;47;420: SWKBD: thread=0x26e4cae0, stackSize=      64 KB, stackBase=0x26e4caa4, stackEnd=0x26e3caa4 (SwkbdDestroy)00;03;47;427: rpl_entry00;03;47;433: KPAD: KPADDisableMpls(@3069) !!!Error: Don't call from UPID=8. This operation will be ignored in the future00;03;47;433: KPAD: KPADDisableMpls(@3069) !!!Error: Don't call from UPID=8. This operation will be ignored in the future00;03;47;433: KPAD: KPADDisableMpls(@3069) !!!Error: Don't call from UPID=8. This operation will be ignored in the future00;03;47;433: KPAD: KPADDisableMpls(@3069) !!!Error: Don't call from UPID=8. This operation will be ignored in the future00;03;47;531: port 0 detached00;03;47;572: ------------------PROCESS 8 LOST FOREGROUND--------------------00;03;47;573: KiCblRegisterBlocks() completed with status 0:-4.00;03;47;573: ------------------PROCESS 5 GAIN FOREGROUND--------------------00:03:47:706: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
+00;03;47;585: port 0 attached00;03;47;626: TCL(5): init DONE00;03;47;681: VPADInit() depricated, no need to call00:03:47:833: MCP: PID 14 requested to enable power transitions
+00;03;47;714: ProcUI: Received Acquire Foreground message00:03:48:045: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
+FSA: It should be 64-byte aligned for file system performance.00:03:48:068: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
+FSA: It should be 64-byte aligned for file system performance.00:03:48:096: IM: home button was pressed by type: IM_PAD_TYPE_WIIU_DRC index: 0
+00;03;47;976: ==== sysapp:dump data 0 ====00;03;47;976: 00:03:48:314: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:03:48:314: [WD]>>>> Linkup msg from Net
+00:03:48:318: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:03:49:861: MCP: PID 14 requested to disable power transitions
+00;03;49;745: ProcUI: Received Release Foreground message00;03;50;275: ProcUI: Releasing foreground00;03;50;383: port 0 detached00;03;50;425: ------------------PROCESS 5 LOST FOREGROUND--------------------00;03;50;426: KiCblRegisterBlocks() completed with status 0:-4.00;03;50;426: ------------------PROCESS 2 GAIN FOREGROUND--------------------00:03:50:559: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
+00;03;50;438: port 0 attached00;03;50;474: TCL(2): init DONE00;03;50;529: VPADInit() depricated, no need to call00:03:50:687: MCP: PID 14 requested to enable power transitions
+00;03;50;564: mic_drc_attach_cb: ch 0 reason 1 flags 0x0004010000;03;50;568: ProcUI: Received Acquire Foreground message00;03;53;671: ACP: detecting USB storage in CheckTitleNotReferAcctLaunchAndDRC.00;03;53;672: ACP: USB storage detection done in CheckTitleNotReferAcctLaunchAndDRC00:03:53:934: ACP: set boot flag: 0x00000000
+00:03:54:302: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:03:54:302: [WD]>>>> Linkup msg from Net
+00:03:54:305: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:03:54:306: NET: Change admin state (1 -> 1)(iface:0 link:2)
+00:03:54:306: [WD]>>>> Linkup msg from Net
+00:03:54:310: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00;03;54;617: ACP: detecting USB storage in AssignTitlePatch.00;03;54;618: ACP: USB storage detection done in AssignTitlePatch00;03;54;893: Querying BSP for Hardware Information...00;03;54;894: 	It is not Holly/Bolly-Wood00;03;54;894: 	It is Latte A2x or later00;03;54;894: using DSP memory parameters:00;03;54;894:     DROM_BASE: 0x300000;03;54;894:     IRAM_SIZE: 0x200000;03;54;894:     DRAM_SIZE: 0x300000:03:55:591: MCP: PID 14 requested to disable power transitions
+00:03:55:652: MCP: loaded and parsed 'preload.txt' at '/vol/storage_mlc01/sys/title/00050010/10047100/code'
+00:03:55:652: MCP: Preparing set.rpx
+00;03;55;542: DIAG:Result PrepareTitle(0x0000000000000000) came back with cosxml(0x0005001010047100)00;03;55;542: ***PPC FAST CYCLE***00;03;55;542: SHUTINFO: RAMPID 7 is in Foreground00;03;55;542: SHUTINFO: RAMPID 0 is also alive.00;03;55;542: SHUTINFO: RAMPID 1 is also alive.00;03;55;542: SHUTINFO: RAMPID 4 is also alive.00;03;55;542: SHUTINFO: RAMPID 5 is also alive.00;03;55;542: SHUTINFO: RAMPID 6 is also alive.00;03;55;542: p2 received EXIT while in foreground.00;03;55;552: ProcUI: Received Release Foreground message (shutdown has begun)00;03;55;594: ProcUI: Releasing foreground00;03;55;674: mic_drc_attach_cb: ch 0 reason 0 flags 0x0000000000;03;55;716: port 0 detached00;03;55;764: Deferred Exit Process 2 - pushing exit message on release.00;03;55;764: p2c1,de EXIT message pushed to system queue.00;03;55;764: ------------------PROCESS 2 LOST FOREGROUND--------------------00;03;55;765: KiCblRegisterBlocks() completed with status 0:-4.00;03;55;765: ------------------PROCESS 1 GAIN FOREGROUND--------------------00;03;55;765: p2c2 EXIT message retrieved from system queue. main() should exit.00;03;55;765: ProcUI: Received Exit messageDRMAPP: Finalize00:03:55:936: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
+00;03;55;815: TCL(1): init DONE00;03;55;816: port 0 attached00;03;55;875: [(P)           wiiload][        TcpReceiver.cpp]                 executeThread@L0104: ##WARN ## Accept failed 14000;03;55;899: VPADInit() depricated, no need to call00;03;55;916: sMasterTitleSwitchedToExit00;03;55;916: ROOT: Issuing reboot.00;03;55;924: ROOT: Waiting for EXIT message or RECYCLE message00;03;55;998: [(P)            ftpiiu][   BackgroundThread.cpp]                     whileLoop@L0037: ##WARN ## Network is down00;03;56;029: ### Application Exit Time [17:39:59] ###00;03;56;029: *** OSDynLoad_Release: RPL Module handle 0xC0D400C5 was not valid@0. (err=0xBAD50004)00;03;56;029: *** OSDynLoad_Release: RPL Module handle 0xC80A0127 was not valid@0. (err=0xBAD50004)00;03;56;048: [(M)  content_redirect][             export.cpp]               CRRemoveFSLayer@L0135: ##WARN ## CONTENT_REDIRECTION_API_ERROR_LAYER_NOT_FOUND for handle 805C159000;03;56;048: [(P)  homebrew_on_menu][    SaveRedirection.cpp]        SaveRedirectionCleanUp@L0021: ##ERROR## Failed to remove save FSLayerINFO: nn::ipc avoided busy close on /dev/acp_main (moduleId = 301, tag = 0) from pid = 21
+00;03;56;106: !!WARNING - main() exited with an active thread 0x4C606540 [prio = 81] "Prepare Thread"00;03;56;106: !!WARNING - main() exited with an active thread 0x11BEAEE8 [prio = 80] "WorkerMgr/Worker1(cSub1)"00;03;56;106: !!WARNING - main() exited with an active thread 0x11BEF778 [prio = 80] "WorkerMgr/Worker2(cSub2)"00;03;56;106: !!WARNING - main() exited with an active thread 0x11BA0AF8 [prio = 81] "InitInRootTask"00;03;56;106: !!WARNING - main() exited with an active thread 0x1322B970 [prio = 82] "UpdateScalableFont"00;03;56;106: !!WARNING - main() exited with an active thread 0x140A0748 [prio = 82] "MenUsbStorageChecker"00;03;56;106: !!WARNING - main() exited with an active thread 0x22A670C8 [prio = 81] "LaunchCoreCheckUpdate"00;03;56;106: !!WARNING - main() exited with an active thread 0x274FE0A8 [prio = 83] "FPCheckOnline"00;03;56;106: !!WARNING - main() exited with an active thread 0x2750E7C0 [prio = 83] "FPUpdateRequestList"00;03;56;106: !!WARNING - main() exited with an active thread 0x27A23AA0 [prio = 83] "AccountMgrThread"00;03;56;106: !!WARNING - main() exited with an active thread 0x2841D230 [prio = 81] "MenSwkbdCalculator_Create"00;03;56;106: !!WARNING - main() exited with an active thread 0x2842D9B8 [prio = 81] "MenSwkbdCalculator_Font"00;03;56;106: !!WARNING - main() exited with an active thread 0x2843E118 [prio = 82] "MenSwkbdCalculator_Predict"00;03;56;106: !!WARNING - main() exited with an active thread 0x28475748 [prio = 83] "NetThread"00;03;56;106: !!WARNING - main() exited with an active thread 0x2FEECBF0 [prio = 83] "MiiThread"00;03;56;106: !!WARNING - main() exited with an active thread 0x349FF6A0 [prio = 83] "TexCreate"00;03;56;106: !!WARNING - main() exited with an active thread 0x365EB8C8 [prio = 82] "LateLoader"00;03;56;106: !!WARNING - main() exited with an active thread 0x3830A1B0 [prio = 81] "MiiSaveJob"00;03;56;106: !!WARNING - main() exited with an active thread 0x38E6B3B8 [prio = 81] "Loginout"00;03;56;106: !!WARNING - main() exited with an active thread 0x393F2FB8 [prio = 84] "EulaThred"00;03;56;106: !!WARNING - main() exited with an active thread 0x3987D590 [prio = 81] "SeqLaunchPushRating"00;03;56;106: +OSDrivers_Done(p2,c1)00;03;56;106: +OSDrivers_Done(p2,c2)00;03;56;106: __OSShutdownIdleBegin()00;03;56;106: __OSSetMaxSchedulingBand 100;03;56;106: +OSDrivers_Done(p2,c0)00;03;56;106: >x(2, 1)"TEST"00;03;56;106: <x(2, 1)"TEST" 0 ms00;03;56;106: >x(2, 1)"Button"00;03;56;106: <x(2, 1)"Button" 0 ms00;03;56;106: >x(2, 1)"Clipboard"00;03;56;106: <x(2, 1)"Clipboard" 0 ms00;03;56;106: >x(2, 1)"ACP"00;03;56;121: <x(2, 1)"ACP" 14 ms00;03;56;121: >x(2, 1)"ACPLoad"00;03;56;121: <x(2, 1)"ACPLoad" 0 ms00;03;56;121: >x(2, 1)"INPT"00;03;56;121: <x(2, 1)"INPT" 0 ms00;03;56;121: >x(2, 0)"ccr_mic"00;03;56;121: <x(2, 0)"ccr_mic" 0 ms00;03;56;121: >x(2, 1)"NTAG"00;03;56;121: <x(2, 1)"NTAG" 0 ms00;03;56;121: >x(2, 1)"UVD"00;03;56;136: <x(2, 1)"UVD" 15 ms00;03;56;137: >x(2, 1)"GX2"00;03;56;137: <x(2, 1)"GX2" 0 ms00;03;56;137: >x(2, 1)"ProcUI"00;03;56;137: <x(2, 1)"ProcUI" 0 ms00;03;56;137: >x(2, 1)"UHS"00;03;56;137: <x(2, 1)"UHS" 0 ms00;03;56;137: >x(2, 1)"AVM"00;03;56;137: <x(2, 1)"AVM" 0 ms00;03;56;137: >x(2, 1)"VPAD"00;03;56;137: <x(2, 1)"VPAD" 0 ms00;03;56;137: >x(2, 1)"WPAD"00;03;56;137: <x(2, 1)"WPAD" 0 ms00;03;56;137: >x(2, 1)"NETWORK"00;03;56;137: <x(2, 1)"NETWORK" 0 ms00;03;56;137: >x(2, 1)"CCR"00;03;56;137: <x(2, 1)"CCR" 0 ms00;03;56;137: >x(2, 1)"TCL"00;03;56;137: <x(2, 1)"TCL" 0 ms00;03;56;137: >x(2, 1)"FS"Fsa profiler has been disabled already.00:03:56:297: MCP: Unlink title:0x0005001010040100 file:/vol/content/Common/Package/Men.pack from ramdisk:/vol/sys/proc_ram/cache/Men.pack
+00:03:56:304: AUXIL Info: fast relaunch.
+00;03;56;137: <x(2, 1)"FS" 0 ms00;03;56;137: >x(2, 1)"SETTING"00;03;56;138: <x(2, 1)"SETTING" 0 ms00;03;56;138: >x(2, 1)"IPC"00;03;56;140: ABANDONED ORPHANED IPC REPLY FOR RAMPID 700;03;56;141: ABANDONED ORPHANED IPC REPLY FOR RAMPID 700;03;56;175: ABANDONED ORPHANED IPC REPLY FOR RAMPID 700;03;56;176: <x(2, 1)"IPC" 38 ms00;03;56;177: >x(2, 1)"Cache"00;03;56;177: <x(2, 1)"Cache" 0 ms00;03;56;177: >x(2, 1)"MEM"00;03;56;177: <x(2, 1)"MEM" 0 ms00;03;56;177: -OSDrivers_Done(p2,c1)00;03;56;177: -OSDrivers_Done(p2,c2)00;03;56;177: -OSDrivers_Done(p2,c0)00;03;56;180: +IPCKDriver_Cleanup(7)00;03;56;180: -IPCKDriver_Cleanup(7)00;03;56;180: p8c2,nt EXIT message pushed to system queue.00;03;56;181: p8c1 EXIT message retrieved from system queue. main() should exit.00;03;56;239: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;03;56;827: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00:03:57:310: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:03:57:310: [WD]>>>> Linkup msg from Net
+00:03:57:314: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00;03;59;392: +OSDrivers_Done(p8,c1)00;03;59;392: +OSDrivers_Done(p8,c0)00;03;59;392: +OSDrivers_Done(p8,c2)00;03;59;392: __OSShutdownIdleBegin()00;03;59;392: __OSSetMaxSchedulingBand 100;03;59;392: >x(8, 1)"TEST"00;03;59;392: <x(8, 1)"TEST" 0 ms00;03;59;392: >x(8, 1)"Button"00;03;59;392: <x(8, 1)"Button" 0 ms00;03;59;392: >x(8, 1)"Clipboard"00;03;59;392: <x(8, 1)"Clipboard" 0 ms00;03;59;392: >x(8, 1)"ACP"00;03;59;440: <x(8, 1)"ACP" 47 ms00;03;59;440: >x(8, 1)"ACPLoad"00;03;59;440: <x(8, 1)"ACPLoad" 0 ms00;03;59;440: >x(8, 1)"INPT"00;03;59;440: <x(8, 1)"INPT" 0 ms00;03;59;440: >x(8, 1)"NTAG"00;03;59;440: <x(8, 1)"NTAG" 0 ms00;03;59;440: >x(8, 1)"UVD"00;03;59;440: <x(8, 1)"UVD" 0 ms00;03;59;440: >x(8, 1)"AVM"00;03;59;441: <x(8, 1)"AVM" 0 ms00;03;59;441: >x(8, 1)"VPAD"00;03;59;441: <x(8, 1)"VPAD" 0 ms00;03;59;441: >x(8, 0)"WPAD"00;03;59;441: <x(8, 0)"WPAD" 0 ms00;03;59;441: >x(8, 1)"TCL"00;03;59;441: <x(8, 1)"TCL" 0 ms00;03;59;441: >x(8, 1)"CCR"00;03;59;441: <x(8, 1)"CCR" 0 ms00;03;59;441: >x(8, 1)"NETWORK"00;03;59;441: <x(8, 1)"NETWORK" 0 ms00;03;59;441: >x(8, 1)"FS"Fsa profiler has been disabled already.00;03;59;441: <x(8, 1)"FS" 0 ms00;03;59;441: >x(8, 1)"SETTING"00;03;59;441: <x(8, 1)"SETTING" 0 ms00;03;59;441: >x(8, 1)"IPC"00;03;59;442: ABANDONED ORPHANED IPC REPLY FOR RAMPID 400;03;59;442: <x(8, 1)"IPC" 0 ms00;03;59;442: >x(8, 1)"Cache"00;03;59;442: <x(8, 1)"Cache" 0 ms00;03;59;442: >x(8, 1)"MEM"00;03;59;442: <x(8, 1)"MEM" 0 ms00;03;59;442: -OSDrivers_Done(p8,c1)00;03;59;442: -OSDrivers_Done(p8,c2)00;03;59;442: -OSDrivers_Done(p8,c0)00;03;59;444: +IPCKDriver_Cleanup(4)00;03;59;444: -IPCKDriver_Cleanup(4)00;03;59;444: ---Root Invoking Recycle---00:03:59:579: MCP: PID 14 requested to enable power transitions
+00:03:59:580: MCP: PID 10 requested to disable power transitions
+00:03:59:580: MCP_PowerButtonControl(0) returned 0
+00;03;59;459: ---PPC USER-LEVEL FAST RESTART---00;03;59;459: New master title is a CafeMenu(0x90000022)00;03;59;459: MASTER TITLE ON   FLASH00:03:59:763: MCP: PID 14 requested to disable power transitions
+00;03;59;643: -----------------------------ROOT IS STARTING MASTER TITLE-----------------------------00;03;59;643: TEST COOKIE: YOSHI-1992-11-21-00-00-0000:03:59:821: MCP: loaded and parsed 'preload.txt' at '/vol/storage_mlc01/sys/title/00050010/10047100/code'
+00:03:59:821: MCP: Preparing set.rpx
+00;03;59;708: DIAG:Result PrepareTitle(0x0000000000000000) came back with cosxml(0x0005001010047100)00:03:59:835: MCP: Mapping /vol/content to /vol/storage_mlc01/sys/title/00050010/10047100/content
+00:03:59:835: MCP: 0005001010047100 is not a demo title, skip increment demo launch count
+00:03:59:835: MCP: Mapping /vol/content to /vol/storage_mlc01/sys/title/00050010/10047100/content
+00;03;59;717: TitleId 0x0005001010047100 Version 0x000000C5 Built On SDK 2121100;03;59;801: port 0 detached00;03;59;842: ------------------PROCESS 1 LOST FOREGROUND--------------------00;03;59;843: DIAG: PhysAlloc(2, 0x40000000, 0x00000000, 0x00000000, 0x02000000, 0x00000001)00;03;59;843: DIAG: InitAddrSpace00;03;59;843: DIAG: Switch(New)00;03;59;843: DIAG:+Loader(1, 7)00;03;59;843: DIAG:+KiRPLLoaderSetup00;03;59;843: DIAG:-KiRPLLoaderSetup: before no-return call to KiLoadContext (0xEFE09400) (0x01003FFC)00:04:00:101: MCP: PID 14 requested to enable power transitions
+00;03;59;981: DIAG:-Loader(1, 7)00;03;59;981: DIAG: SetFG(7)00;03;59;981: KiCblRegisterBlocks() completed with status 0:-4.00;03;59;981: ------------------PROCESS 2 GAIN FOREGROUND--------------------00;03;59;982: SYSLOG_LEVEL 1: Warnings Enabled00;03;59;983: UserMode Core & Thread Initialization (3 Cores)00;03;59;983:   Core 1 Complete, Default Thread 0x100457E000;03;59;984:   Core 0 Complete, MSR 0x00005072, Default Thread 0x1004514000;03;59;986:   Core 2 Complete, MSR 0x00005072, Default Thread 0x10045E8000;04;00;008: UserMode OS library build date: Feb  4 2021 16:38:5800;04;00;008: __AppFlags: 0x0000020000;04;00;009: OSBlockThreadsOnExit default for sdk version 2121100:04:00:317: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:04:00:317: [WD]>>>> Linkup msg from Net
+00:04:00:320: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00;04;00;319: SYSAPP: RPL Load00;04;00;319: mic_core0_thread: master init00;04;00;338: OSSetting_SynchronousPrinting DISABLED00;04;00;342: OSSetting_CrashDumpType 0, MINI dump after crash00;04;00;377: TCL(2): init DONE00:04:00:546: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
+SPM: SetManualMode
+00;04;00;426: VPADInit() depricated, no need to call00;04;00;426: port 0 attached00;04;00;427: VPAD Init end, BPERF: (0/240546881) Title PID=200;04;00;427: mic_drc_attach_cb: ch 0 reason 1 flags 0x0004010000;04;00;428:    ACP_AutoInit: start00;04;00;545:    ACP_AutoInit: ACPInitialize complete00;04;00;546:    ACP_AutoInit: ACPSaveDataInit complete00;04;00;551:    ACP_AutoInit: ACPNotifyPlayEvent complete00;04;00;554:    ACP_AutoInit: NDMInitialize complete00;04;01;054: ACP: initialized00;04;01;062: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;04;01;063: Running WUMSLoader v0.200;04;01;072: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;04;01;073: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;04;01;074: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;04;01;075: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;04;01;075: Running AromaBaseModule v0.2.000;04;01;075: Running ContentRedirectionModule v0.2.300;04;01;077: Running MemoryMappingModule v0.200;04;01;077: Running PatchMemoryRelocationsModule v0.1.100;04;01;077: Running RPXLoadingModule v0.300;04;01;225: Running WiiUPluginLoaderBackend v0.200;04;01;405: [barista] Product {:program=>38956, :message=>43332, :programProj=>39097, :root=>39136, :sead=>37528, :resource=>39136}00;04;01;405: [barista] Cafe OS SDK Version 2.12.11 Build 66642 Branch 00;04;01;406: ### Application Start Time [17:40:04] ###00;04;01;406: ================================= MEM_ARENA_2: total free size =  993267(KB),  969(MB)=================================00;04;01;420: WPAD: Application Init00;04;02;691: rpl_entry00;04;02;691: OSDynLoad_Acquire() use [2701564]00;04;02;691: ErrEula: client version 3.00;04;02;691: ErrEula: thread=0x4c59a6c0, stackSize=      64 KB, stackBase=0x4c59a6ac, stackEnd=0x4c58a6ac (ErrEulaCreate)00:04:03:646: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
+FSA: It should be 64-byte aligned for file system performance.00:04:03:669: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
+FSA: It should be 64-byte aligned for file system performance.00:04:04:674: MCP: PID 10 requested to enable power transitions
+00:04:04:674: MCP_PowerButtonControl(1) returned 0
+DRMAPP: built Feb  4 2021 16:43:4400;04;05;899: rpl_entry00;04;05;899: SWKBD: OSDynLoad_Acquire() use [3133800/3670016]00;04;05;899: SWKBD: client version 3.00;04;05;899: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10648d78, stackEnd=0x10638d80 (SwkbdCreate)00;04;06;138: ==== sysapp:dump data 91 ====00;04;06;138:         <sys:caller_id size=8>Menu<sys:caller_process size=4>mlc <sys:caller_device size=4>00;04;06;138: ==== sysapp:dump data 0 ====00;04;06;138: 00:04:06:308: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:04:06:308: [WD]>>>> Linkup msg from Net
+00:04:06:311: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:04:06:312: NET: Change admin state (1 -> 1)(iface:0 link:2)
+00:04:06:312: [WD]>>>> Linkup msg from Net
+00:04:06:315: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:04:09:316: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:04:09:316: [WD]>>>> Linkup msg from Net
+00:04:09:320: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:04:12:320: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:04:12:320: [WD]>>>> Linkup msg from Net
+00:04:12:324: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:04:16:308: NET: >>> Received request to kill all sockets.
+00:04:16:309: NET: Socket binding (resource: 0x00001a80)
+00:04:16:310: NET: Change admin state (2 -> 2)(iface:0 link:2)
+00:04:16:310: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00;04;16;189: [(P)           wiiload][        TcpReceiver.cpp]                 executeThread@L0104: ##WARN ## Accept failed 14000;04;16;296: [(P)            ftpiiu][   BackgroundThread.cpp]                     whileLoop@L0037: ##WARN ## Network is down00:04:20:927: NET: >>> Received request to kill all sockets.
+00:04:20:927: NET: Socket binding (resource: 0x00001a80)
+00:04:20:928: NET: Change admin state (2 -> 2)(iface:0 link:2)
+00:04:20:929: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00;04;20;808: [(P)           wiiload][        TcpReceiver.cpp]                 executeThread@L0104: ##WARN ## Accept failed 14000:04:21:032: NET: >>> Received request to kill all sockets.
+00:04:21:033: NET: Socket binding (resource: 0x00001a80)
+00:04:21:034: NET: Change admin state (2 -> 2)(iface:0 link:2)
+00:04:21:034: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00;04;20;914: [(P)           wiiload][        TcpReceiver.cpp]                 executeThread@L0104: ##WARN ## Accept failed 14000;04;20;937: [(P)            ftpiiu][   BackgroundThread.cpp]                     whileLoop@L0037: ##WARN ## Network is down00:04:21:539: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:04:21:540: [WD]>>>> Linkup msg from Net
+00:04:21:543: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:04:21:543: NET: Change admin state (1 -> 1)(iface:0 link:2)
+00:04:21:543: [WD]>>>> Linkup msg from Net
+00:04:21:547: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:04:24:548: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:04:24:548: [WD]>>>> Linkup msg from Net
+00:04:24:552: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:04:27:553: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:04:27:553: [WD]>>>> Linkup msg from Net
+00:04:27:556: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:04:27:650: NET: >>> Received request to kill all sockets.
+00;04;27;530: [(P)           wiiload][        TcpReceiver.cpp]                 executeThread@L0104: ##WARN ## Accept failed 14000:04:27:651: NET: Socket binding (resource: 0x00001a80)
+00:04:27:652: NET: Change admin state (2 -> 2)(iface:0 link:2)
+00:04:27:652: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00;04;27;712: [(P)            ftpiiu][   BackgroundThread.cpp]                     whileLoop@L0037: ##WARN ## Network is down00:04:31:162: CSC: Product Code: WUP-N-HATE, Title Version (major): 12
+00;04;31;033: ErrEula: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10648d78, stackEnd=0x10638d80 (ErrEulaAppearError)00;04;31;033: ErrEula :ErrorCode = 103160100;04;31;033: ErrEula: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10648d78, stackEnd=0x10638d80 (ErrEulaCalc)00:04:31:174: CSC: Repaired: TRUE, Wagon: FALSE
+00:04:31:179: CSC: InitialLaunch stage: 2
+00:04:31:184: CSC: USB Storage Connected: TRUE, Device Type: NAND
+00:04:31:208: CSC: RCA Enabled: FALSE, KeepAlive Enabled: FALSE, ParentControl Enable: TRUE
+00:04:31:209: CSC: Check : /vol/storage_mlc01/usr/boss/00050010/10047100/user/common/ (-196631)
+00:04:31:211: CSC: Check : /vol/storage_mlc01/usr/boss/00050010/10047100/user/80000010/ (-196631)
+00:04:31:212: CSC: Check : /vol/storage_usb01/usr/boss/00050010/10047100/user/common/ (-196631)
+00:04:31:213: CSC: Check : /vol/storage_usb01/usr/boss/00050010/10047100/user/80000010/ (-196631)
+00:04:31:214: CSC: Check : /vol/storage_usb02/usr/boss/00050010/10047100/user/common/ (-196631)
+00:04:31:215: CSC: Check : /vol/storage_usb02/usr/boss/00050010/10047100/user/80000010/ (-196631)
+00:04:31:217: CSC: Boss Storage Exist: FALSE, NetworkID Assigned: FALSE, System Network Connected: FALSE
+00:04:31:243: CSC: NIC Type: WIFI, DNS obtained by DHCP: TRUE, IP obtained by DHCP: TRUE
+00:04:31:249: CSC: TV Port: HDMI, TV Aspect Ratio: 16:9
+00:04:31:256: CSC: TV Resolution: TV_1080P
+00:04:31:256: CSC: CODE: [HATC-2251-0375]
+2022-01-25 17:40:34 - log collection event from pid 21
+00;04;31;136: (1)5.5.5 U00;04;31;137: (2)WUP-101(02)00;04;31;137: (3)FW91039263900;04;31;137: (4)HATC-2251-037500:04:31:261: MCP: life time number of fatal errors - 508
+00:04:31:262: MCP: storing current logs as '/vol/system/logs/9.log'
+00:04:31:972: MCP: Finished storing current logs as '/vol/system/logs/9.dsc'
+00;04;31;890: ErrEula: thread=0x11659778, stackSize=      16 KB, stackBase=0x11659768, stackEnd=0x11655768 (ErrEulaDrawTV)00;04;31;891: ErrEula: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10648d78, stackEnd=0x10638d80 (ErrEulaDrawDRC)00;04;38;374: ErrEula: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10648d78, stackEnd=0x10638d80 (ErrEulaDisappearError)00:04:55:327: NET: >>> Received request to kill all sockets.
+00:04:55:328: NET: Socket binding (resource: 0x00001a80)
+00:04:55:328: NET: Change admin state (2 -> 2)(iface:0 link:2)
+00:04:55:329: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:04:55:432: NET: >>> Received request to kill all sockets.
+00:04:55:433: NET: Socket binding (resource: 0x00001a80)
+00:04:55:434: NET: Change admin state (2 -> 2)(iface:0 link:2)
+00:04:55:434: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:04:56:008: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:04:56:008: [WD]>>>> Linkup msg from Net
+00:04:56:011: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:04:56:011: NET: Change admin state (1 -> 1)(iface:0 link:2)
+00:04:56:012: [WD]>>>> Linkup msg from Net
+00:04:56:015: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:04:59:015: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:04:59:016: [WD]>>>> Linkup msg from Net
+00:04:59:019: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:05:02:020: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:05:02:020: [WD]>>>> Linkup msg from Net
+00:05:02:024: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:05:02:134: NET: >>> Received request to kill all sockets.
+00:05:02:135: NET: Socket binding (resource: 0x00001a80)
+00:05:02:135: NET: Change admin state (2 -> 2)(iface:0 link:2)
+00:05:02:136: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:05:04:428: CSC: Product Code: WUP-N-HATE, Title Version (major): 12
+00;05;04;300: ErrEula: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10648d78, stackEnd=0x10638d80 (ErrEulaAppearError)00;05;04;300: ErrEula :ErrorCode = 103160100:05:04:439: CSC: Repaired: TRUE, Wagon: FALSE
+00:05:04:446: CSC: InitialLaunch stage: 2
+00:05:04:451: CSC: USB Storage Connected: TRUE, Device Type: NAND
+00:05:04:474: CSC: RCA Enabled: FALSE, KeepAlive Enabled: FALSE, ParentControl Enable: TRUE
+00:05:04:476: CSC: Check : /vol/storage_mlc01/usr/boss/00050010/10047100/user/common/ (-196631)
+00:05:04:478: CSC: Check : /vol/storage_mlc01/usr/boss/00050010/10047100/user/80000010/ (-196631)
+00:05:04:479: CSC: Check : /vol/storage_usb01/usr/boss/00050010/10047100/user/common/ (-196631)
+00:05:04:480: CSC: Check : /vol/storage_usb01/usr/boss/00050010/10047100/user/80000010/ (-196631)
+00:05:04:481: CSC: Check : /vol/storage_usb02/usr/boss/00050010/10047100/user/common/ (-196631)
+00:05:04:482: CSC: Check : /vol/storage_usb02/usr/boss/00050010/10047100/user/80000010/ (-196631)
+00:05:04:483: CSC: Boss Storage Exist: FALSE, NetworkID Assigned: FALSE, System Network Connected: FALSE
+00:05:04:509: CSC: NIC Type: WIFI, DNS obtained by DHCP: TRUE, IP obtained by DHCP: TRUE
+00:05:04:515: CSC: TV Port: HDMI, TV Aspect Ratio: 16:9
+00:05:04:522: CSC: TV Resolution: TV_1080P
+00:05:04:522: CSC: CODE: [HATC-2251-0375]
+2022-01-25 17:41:07 - log collection event from pid 21
+00:05:04:523: MCP: life time number of fatal errors - 509

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<AVMCfg type="complex" access="7777"> 
+  <port type="string" length="15">HDMI</port> 
+  <tv_resolution type="string" length="15">TV_1080P</tv_resolution> 
+  <audio_channel type="string" length="20">TV_AUDIO_STEREO</audio_channel>
+
+  <enable_sv type="unsignedByte" length="1">0</enable_sv> 
+  <enable_cec type="unsignedByte" length="1">0</enable_cec> 
+  <aspect_ratio type="unsignedByte" length="1">1</aspect_ratio> 
+  <tv_vendor_id type="unsignedShort" length="2">0</tv_vendor_id> 
+  <tv_product_id type="unsignedShort" length="2">1</tv_product_id> 
+  <tv_user_gamma type="unsignedByte" length="1">0</tv_user_gamma> 
+  <mode type="string" length="10">MANUAL</mode> 
+  <version type="unsignedShort" length="2">11</version> 
+  <under_scan type="unsignedByte" length="1">0</under_scan> 
+  <enable_rca type="unsignedByte" length="1">0</enable_rca> 
+  <edid_checksum type="unsignedByte" length="1">127</edid_checksum> 
+  <content_type type="unsignedByte" length="1">4</content_type> 
+</AVMCfg>

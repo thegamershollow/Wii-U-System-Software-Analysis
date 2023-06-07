@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<wii_acct type="complex"> 
+  <profile type="complex"> 
+    <nickname type="hexBinary" length="22">00430061006c00600073002000570069006900000000</nickname>
+
+    <language type="unsignedInt" length="4">1</language> 
+    <country type="unsignedInt" length="4">49</country> 
+  </profile> 
+  <pc type="complex"> 
+    <rating type="unsignedInt" length="4">17</rating> 
+    <organization type="unsignedInt" length="4">1</organization> 
+    <rst_internet_ch type="unsignedByte" length="1">0</rst_internet_ch> 
+    <rst_nw_access type="unsignedByte" length="1">0</rst_nw_access> 
+    <rst_pt_order type="unsignedByte" length="1">0</rst_pt_order> 
+  </pc> 
+  <ctrl type="complex"> 
+    <drc type="unsignedByte" length="1">1</drc></ctrl> 
+  <av type="complex"> 
+    <output type="unsignedInt" length="4">1</output></av> 
+  <net type="complex"> 
+    <eula type="unsignedByte" length="1">1</eula></net> 
+  <internal type="complex"> 
+    <reflection type="unsignedByte" length="1">0</reflection> 
+    <dirty type="unsignedByte" length="1">1</dirty> 
+  </internal> 
+</wii_acct>

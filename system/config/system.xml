@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<system type="complex" access="777">
+  <version type="unsignedInt" length="4">21</version>
+  <cmdFlags type="unsignedInt" length="4">0</cmdFlags>
+  <default_os_id type="hexBinary" length="8">000500101000400a</default_os_id>
+  <default_title_id type="hexBinary" length="8">000500101004E100</default_title_id>
+  <log type="complex" length="0">
+    <enable type="unsignedInt" length="4">0</enable>
+    <max_size type="unsignedInt" length="4">8388607</max_size>
+  </log>
+  <standby type="complex" length="0">
+    <enable type="unsignedInt" length="4">1</enable>
+  </standby>
+  <ramdisk type="complex" length="0">
+    <cache_user_code type="unsignedInt" length="4">0</cache_user_code>
+    <max_file_size type="unsignedInt" length="4">10485760</max_file_size>
+    <cache_delay_ms type="unsignedInt" length="4">10000</cache_delay_ms>
+  </ramdisk>
+  <simulated_ppc_mem2_size type="hexBinary" length="4">00000000</simulated_ppc_mem2_size>
+  <dev_mode type="unsignedInt" length="4">0</dev_mode>
+  <prev_title_id type="hexBinary" length="8">0000000000000000</prev_title_id>
+  <prev_os_id type="hexBinary" length="8">0000000000000000</prev_os_id>
+  <default_app_type type="hexBinary" length="4">90000001</default_app_type>
+  <default_device_type type="string" length="16" />
+  <default_device_index type="unsignedInt" length="4">0</default_device_index>
+  <fast_relaunch_value type="unsignedInt" length="4">0</fast_relaunch_value>
+  <default_eco_title_id type="hexBinary" length="8">0005001010066000</default_eco_title_id>
+</system>

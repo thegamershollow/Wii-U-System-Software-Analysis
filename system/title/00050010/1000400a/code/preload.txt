@@ -1,0 +1,4 @@
+fw.img avm.rpl kernel.img loader.elf coreinit.rpl camera.rpl dc.rpl dmae.rpl gx2.rpl mic.rpl nlibcurl.rpl nn_ac.rpl nn_acp.rpl nn_act.rpl nn_aoc.rpl nn_boss.rpl nn_fp.rpl nn_idbe.rpl nn_ndm.rpl nn_nim.rpl nn_pdm.rpl nn_save.rpl nn_uds.rpl nsysccr.rpl nsyshid.rpl nsysnet.rpl nsysuvd.rpl proc_ui.rpl root.rpx snd_core.rpl snd_user.rpl sysapp.rpl tcl.rpl tve.rpl uac.rpl usb_mic.rpl uvc.rpl uvd.rpl uvdfirm.bin vpad.rpl vpadbase.rpl zlib125.rpl
+drmapp.rpl erreula.rpl h264.rpl nn_spm.rpl nn_vctl.rpl swkbd.rpl
+padscore.rpl nn_olv.rpl nsysuhs.rpl nsyskbd.rpl
+

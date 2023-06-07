@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rtc type="complex" access="777"> 
+  <version type="unsignedInt" length="4">1</version> 
+  <rtc_offset type="unsignedInt" length="4">1669567393</rtc_offset> 
+</rtc>

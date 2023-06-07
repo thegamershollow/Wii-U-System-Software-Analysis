@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<console type="complex"> 
+  <log1 type="complex"> 
+    <event type="hexBinary" length="8" access="777">0000002900000006</event>
+
+    <value type="hexBinary" length="8" access="777">ffffffff00000003</value>
+
+  </log1> 
+  <log_count type="unsignedInt" length="4" access="777">3</log_count> 
+  <log2 type="complex"> 
+    <event type="hexBinary" length="8" access="777">0000000900000006</event>
+
+    <value type="hexBinary" length="8" access="777">ffffffff00000000</value>
+  </log2> 
+  <log3 type="complex">
+    <event type="hexBinary" length="8" access="777">0000001d00000006</event>
+    <value type="hexBinary" length="8" access="777">ffffffff00000000</value></log3>
+</console>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<cos type="complex"> 
+  <root_test_autorestart type="unsignedInt" length="4">0</root_test_autorestart>
+
+  <cosreport_upid_mask type="hexBinary" length="8">ffffffffffffffff</cosreport_upid_mask>
+
+  <cosreport_module_mask type="hexBinary" length="8">ffffffffffffffff</cosreport_module_mask>
+
+  <cosreport_level type="hexBinary" length="4">ffffffff</cosreport_level>
+
+  <crash_detail_level type="hexBinary" length="4">ffffffff</crash_detail_level>
+
+  <crash_recovery type="hexBinary" length="4">00000002</crash_recovery> 
+  <timestamp_level type="hexBinary" length="4">ffffffff</timestamp_level>
+
+  <font0 type="unsignedInt" length="4">348596015</font0> 
+  <font1 type="unsignedInt" length="4">-1566464678</font1> 
+  <font2 type="unsignedInt" length="4">-249223415</font2> 
+  <font3 type="unsignedInt" length="4">-441894707</font3> 
+</cos>

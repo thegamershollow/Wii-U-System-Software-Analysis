@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<p_acct12 type="complex" access="777">
+  <version type="unsignedShort" length="2" access="777">10</version>
+  <game_rating type="unsignedInt" length="4" access="777">18</game_rating>
+  <eshop_purchase type="unsignedByte" length="1" access="777">0</eshop_purchase>
+  <friend_reg type="unsignedByte" length="1" access="777">0</friend_reg>
+  <acct_modify type="unsignedByte" length="1" access="777">0</acct_modify>
+  <data_manage type="unsignedByte" length="1" access="777">0</data_manage>
+  <int_setting type="unsignedByte" length="1" access="777">0</int_setting>
+  <country_setting type="unsignedByte" length="1" access="777">0</country_setting>
+  <sys_init type="unsignedByte" length="1" access="777">0</sys_init>
+  <int_browser type="unsignedByte" length="1" access="777">0</int_browser>
+  <int_movie type="unsignedByte" length="1" access="777">0</int_movie>
+  <net_communication_on_game type="unsignedByte" length="1" access="777">0</net_communication_on_game>
+  <network_launcher type="unsignedByte" length="1" access="777">0</network_launcher>
+  <entertainment_launcher type="unsignedByte" length="1" access="777">0</entertainment_launcher>
+</p_acct12>

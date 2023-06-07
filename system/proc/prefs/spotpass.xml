@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<spotpass type="complex" access="777"> 
+  <version type="unsignedByte" length="1" access="777">2</version> 
+  <enable type="unsignedByte" length="1" access="777">1</enable> 
+  <auto_dl_app type="unsignedByte" length="1" access="777">1</auto_dl_app>
+
+  <upload_console_info1 type="unsignedByte" length="1" access="777">1</upload_console_info1>
+
+  <upload_console_info2 type="unsignedByte" length="1" access="777">1</upload_console_info2>
+
+  <upload_console_info3 type="unsignedByte" length="1" access="777">1</upload_console_info3>
+
+  <upload_console_info4 type="unsignedByte" length="1" access="777">1</upload_console_info4>
+
+  <upload_console_info5 type="unsignedByte" length="1" access="777">1</upload_console_info5>
+
+  <upload_console_info6 type="unsignedByte" length="1" access="777">1</upload_console_info6>
+
+  <upload_console_info7 type="unsignedByte" length="1" access="777">1</upload_console_info7>
+
+  <upload_console_info8 type="unsignedByte" length="1" access="777">1</upload_console_info8>
+
+  <upload_console_info9 type="unsignedByte" length="1" access="777">1</upload_console_info9>
+
+  <upload_console_info10 type="unsignedByte" length="1" access="777">1</upload_console_info10>
+
+  <upload_console_info11 type="unsignedByte" length="1" access="777">1</upload_console_info11>
+
+  <upload_console_info12 type="unsignedByte" length="1" access="777">1</upload_console_info12>
+
+</spotpass>

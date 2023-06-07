@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coppa type="complex" access="777">
+  <version type="unsignedShort" length="2" access="777">2</version>
+  <approval_id type="unsignedInt" length="4" access="777">0</approval_id>
+  <charge_status type="unsignedByte" length="1" access="777">0</charge_status>
+</coppa>

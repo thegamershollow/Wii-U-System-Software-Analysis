@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s_acct01 type="complex" access="777">
+  <uuid type="string" length="37" access="777">BCB46400-6649-11EC-B9F3-AB5C8DED47C0</uuid>
+  <nn type="complex">
+    <ec type="complex">
+      <eshop_initialized type="unsignedByte" length="1" access="777">1</eshop_initialized></ec></nn></s_acct01>

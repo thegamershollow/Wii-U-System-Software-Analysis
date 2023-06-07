@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<NETCmn type="complex"> 
+  <version type="float" length="4">0.15000</version> 
+  <default_netconf type="unsignedInt" length="4">1</default_netconf> 
+  <profile_state type="complex"> 
+    <state0 type="unsignedInt" length="4">1</state0> 
+    <state1 type="unsignedInt" length="4">1</state1> 
+    <state2 type="unsignedInt" length="4">0</state2> 
+    <state3 type="unsignedInt" length="4">0</state3> 
+    <state4 type="unsignedInt" length="4">0</state4> 
+    <state5 type="unsignedInt" length="4">0</state5> 
+  </profile_state> 
+  <valid_flag type="complex"> 
+    <flag0 type="unsignedInt" length="4">1</flag0> 
+    <flag1 type="unsignedInt" length="4">1</flag1> 
+    <flag2 type="unsignedInt" length="4">1</flag2> 
+    <flag3 type="unsignedInt" length="4">1</flag3> 
+    <flag4 type="unsignedInt" length="4">1</flag4> 
+    <flag5 type="unsignedInt" length="4">1</flag5> 
+  </valid_flag> 
+  <compat_default_id type="unsignedInt" length="4">1</compat_default_id> 
+</NETCmn>

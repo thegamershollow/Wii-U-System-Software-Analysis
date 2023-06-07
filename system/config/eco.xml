@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eco type="complex" access="777">
+  <enable type="unsignedInt" length="4">1</enable>
+  <max_on_time type="unsignedInt" length="4">3601</max_on_time>
+  <default_off_time type="unsignedInt" length="4">15</default_off_time>
+  <wd_disable type="unsignedInt" length="4">0</wd_disable>
+</eco>

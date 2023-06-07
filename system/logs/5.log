@@ -1,0 +1,524 @@
+2022-01-25 14:41:30
+Cafe OS SDK Version 2.13.01 Build 69088 Branch sdk_2_13
+Espresso:       0x0000700100000201
+Latte:          0x0000409f
+System mode:    0x100000
+Boot flags:     0x2000
+Security Level: 0x1e
+Key Type:       0xfffffffc
+Prod Version:   0x5
+Serial:         910392639
+Model:          WUP-101(02)
+Prod Area:      0x2
+Game Area:      0x2
+5GHz Code:      0x7
+BOOT1:          0x20b9
+DRH:            0x190c
+BT:             0x205
++0x000500301001110a:0x00000064
++0x000500301001010a:0x000000c5
++0x0005001010040100:0x000000d5
+-0x0005001010040100:0x000000d5
++0x0005001010040100:0x000000d5
+-0x0005001010040100:0x000000d5
++0x000500101004e100:0x00000081
+-0x000500101004e100:0x00000081
+8: [WD]>>>> Linkup msg from Net
+00:06:05:288: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:05:291: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:06:05:292: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:06:05:389: [WD]>>>> Linkup msg from Net
+00:06:05:398: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:06:403: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:06:09:403: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:06:09:404: [WD]>>>> Linkup msg from Net
+00:06:09:413: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:10:422: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:06:13:422: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:06:13:422: [WD]>>>> Linkup msg from Net
+00:06:13:433: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:14:820: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:06:21:003: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:06:21:003: [WD]>>>> Linkup msg from Net
+00:06:21:013: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:21:016: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:06:21:017: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:06:21:116: [WD]>>>> Linkup msg from Net
+00:06:21:126: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:22:131: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:06:25:132: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:06:25:132: [WD]>>>> Linkup msg from Net
+00:06:25:142: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:26:147: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:06:29:148: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:06:29:148: [WD]>>>> Linkup msg from Net
+00:06:29:157: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:30:162: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:06:36:285: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:06:36:286: [WD]>>>> Linkup msg from Net
+00:06:36:295: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:36:299: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:06:36:300: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:06:36:396: [WD]>>>> Linkup msg from Net
+00:06:36:405: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:37:410: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:06:40:411: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:06:40:411: [WD]>>>> Linkup msg from Net
+00:06:40:420: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:41:425: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:06:44:426: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:06:44:426: [WD]>>>> Linkup msg from Net
+00:06:44:436: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:45:440: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:06:50:614: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:06:50:614: [WD]>>>> Linkup msg from Net
+00:06:50:624: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:50:628: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:06:50:628: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:06:50:725: [WD]>>>> Linkup msg from Net
+00:06:50:734: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:51:739: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:06:54:740: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:06:54:740: [WD]>>>> Linkup msg from Net
+00:06:54:749: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:55:754: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:06:58:755: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:06:58:755: [WD]>>>> Linkup msg from Net
+00:06:58:764: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:06:59:769: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:07:16:117: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:07:16:117: [WD]>>>> Linkup msg from Net
+00:07:16:127: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:16:131: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:07:16:131: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:07:16:228: [WD]>>>> Linkup msg from Net
+00:07:16:237: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:17:242: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:07:20:243: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:07:20:243: [WD]>>>> Linkup msg from Net
+00:07:20:253: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:21:257: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:07:24:258: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:07:24:258: [WD]>>>> Linkup msg from Net
+00:07:24:267: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:25:272: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:07:31:119: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:07:31:119: [WD]>>>> Linkup msg from Net
+00:07:31:128: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:31:132: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:07:31:132: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:07:31:230: [WD]>>>> Linkup msg from Net
+00:07:31:239: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:32:244: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:07:36:678: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:07:36:679: [WD]>>>> Linkup msg from Net
+00:07:36:688: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:37:693: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:07:40:693: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:07:40:694: [WD]>>>> Linkup msg from Net
+00:07:40:703: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:41:708: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:07:47:680: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:07:47:680: [WD]>>>> Linkup msg from Net
+00:07:47:689: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:47:693: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:07:47:694: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:07:47:790: [WD]>>>> Linkup msg from Net
+00:07:47:799: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:48:804: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:07:51:805: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:07:51:805: [WD]>>>> Linkup msg from Net
+00:07:51:815: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:52:820: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:07:55:821: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:07:55:821: [WD]>>>> Linkup msg from Net
+00:07:55:831: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:07:56:835: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:08:02:682: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:08:02:682: [WD]>>>> Linkup msg from Net
+00:08:02:692: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:02:695: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:08:02:696: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:08:02:793: [WD]>>>> Linkup msg from Net
+00:08:02:802: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:03:807: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:08:06:808: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:08:06:808: [WD]>>>> Linkup msg from Net
+00:08:06:818: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:15:382: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:08:18:383: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:08:18:383: [WD]>>>> Linkup msg from Net
+00:08:18:393: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:19:398: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:08:25:382: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:08:25:383: [WD]>>>> Linkup msg from Net
+00:08:25:392: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:25:396: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:08:25:397: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:08:25:494: [WD]>>>> Linkup msg from Net
+00:08:25:503: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:26:508: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:08:29:510: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:08:29:510: [WD]>>>> Linkup msg from Net
+00:08:29:520: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:30:524: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:08:33:525: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:08:33:525: [WD]>>>> Linkup msg from Net
+00:08:33:535: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:34:540: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:08:42:894: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:08:42:895: [WD]>>>> Linkup msg from Net
+00:08:42:905: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:42:909: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:08:42:910: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:08:43:007: [WD]>>>> Linkup msg from Net
+00:08:43:016: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:44:020: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:08:47:021: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:08:47:021: [WD]>>>> Linkup msg from Net
+00:08:47:030: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:48:036: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:08:51:037: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:08:51:037: [WD]>>>> Linkup msg from Net
+00:08:51:047: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:52:052: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:08:57:898: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:08:57:898: [WD]>>>> Linkup msg from Net
+00:08:57:908: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:57:912: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:08:57:912: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:08:58:010: [WD]>>>> Linkup msg from Net
+00:08:58:020: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:08:59:025: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:09:02:026: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:09:02:026: [WD]>>>> Linkup msg from Net
+00:09:02:036: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:03:040: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:09:06:041: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:09:06:041: [WD]>>>> Linkup msg from Net
+00:09:06:050: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:07:056: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:09:12:900: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:09:12:900: [WD]>>>> Linkup msg from Net
+00:09:12:909: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:12:913: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:09:12:914: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:09:13:011: [WD]>>>> Linkup msg from Net
+00:09:13:020: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:14:025: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:09:17:026: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:09:17:027: [WD]>>>> Linkup msg from Net
+00:09:17:036: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:18:041: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:09:21:042: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:09:21:042: [WD]>>>> Linkup msg from Net
+00:09:21:052: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:22:103: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:09:28:104: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:09:28:104: [WD]>>>> Linkup msg from Net
+00:09:28:114: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:28:117: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:09:28:118: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:09:28:215: [WD]>>>> Linkup msg from Net
+00:09:28:225: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:29:230: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:09:32:272: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:09:32:272: [WD]>>>> Linkup msg from Net
+00:09:32:282: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:33:287: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:09:39:110: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:09:39:110: [WD]>>>> Linkup msg from Net
+00:09:39:120: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:40:125: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:09:46:113: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:09:46:113: [WD]>>>> Linkup msg from Net
+00:09:46:123: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:46:126: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:09:46:127: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:09:46:224: [WD]>>>> Linkup msg from Net
+00:09:46:233: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:47:238: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:09:50:238: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:09:50:238: [WD]>>>> Linkup msg from Net
+00:09:50:248: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:51:253: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:09:54:254: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:09:54:254: [WD]>>>> Linkup msg from Net
+00:09:54:264: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:09:55:269: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:01:115: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:01:116: [WD]>>>> Linkup msg from Net
+00:10:01:125: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:01:129: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:10:01:130: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:10:01:226: [WD]>>>> Linkup msg from Net
+00:10:01:235: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:02:241: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:06:346: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:06:346: [WD]>>>> Linkup msg from Net
+00:10:06:356: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:07:361: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:10:362: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:10:362: [WD]>>>> Linkup msg from Net
+00:10:10:372: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:11:376: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:17:348: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:17:348: [WD]>>>> Linkup msg from Net
+00:10:17:358: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:17:361: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:10:17:362: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:10:17:459: [WD]>>>> Linkup msg from Net
+00:10:17:468: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:18:473: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:21:474: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:21:474: [WD]>>>> Linkup msg from Net
+00:10:21:483: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:22:488: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:25:489: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:25:489: [WD]>>>> Linkup msg from Net
+00:10:25:498: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:26:504: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:32:350: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:32:350: [WD]>>>> Linkup msg from Net
+00:10:32:359: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:32:362: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:10:32:363: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:10:32:462: [WD]>>>> Linkup msg from Net
+00:10:32:472: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:33:477: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:36:478: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:36:478: [WD]>>>> Linkup msg from Net
+00:10:36:487: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:37:492: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:43:061: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:43:061: [WD]>>>> Linkup msg from Net
+00:10:43:071: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:44:076: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:50:062: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:50:062: [WD]>>>> Linkup msg from Net
+00:10:50:072: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:50:076: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:10:50:076: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:10:50:173: [WD]>>>> Linkup msg from Net
+00:10:50:182: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:51:186: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:54:187: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:54:188: [WD]>>>> Linkup msg from Net
+00:10:54:197: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:55:202: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:10:58:203: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:10:58:203: [WD]>>>> Linkup msg from Net
+00:10:58:212: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:10:59:217: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:11:05:064: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:11:05:065: [WD]>>>> Linkup msg from Net
+00:11:05:074: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:05:078: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:11:05:079: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:11:05:175: [WD]>>>> Linkup msg from Net
+00:11:05:185: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:06:190: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:11:09:191: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:11:09:192: [WD]>>>> Linkup msg from Net
+00:11:09:201: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:10:206: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:11:13:207: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:11:13:207: [WD]>>>> Linkup msg from Net
+00:11:13:216: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:14:221: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:11:20:066: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:11:20:067: [WD]>>>> Linkup msg from Net
+00:11:20:076: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:20:080: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:11:20:081: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:11:20:178: [WD]>>>> Linkup msg from Net
+00:11:20:187: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:21:192: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:11:24:193: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:11:24:193: [WD]>>>> Linkup msg from Net
+00:11:24:203: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:25:208: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:11:28:209: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:11:28:210: [WD]>>>> Linkup msg from Net
+00:11:28:220: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:29:224: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:11:36:201: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:11:36:202: [WD]>>>> Linkup msg from Net
+00:11:36:211: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:36:214: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:11:36:215: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:11:36:312: [WD]>>>> Linkup msg from Net
+00:11:36:321: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:37:326: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:11:40:327: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:11:40:327: [WD]>>>> Linkup msg from Net
+00:11:40:338: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:41:342: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:11:44:342: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:11:44:343: [WD]>>>> Linkup msg from Net
+00:11:44:352: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:45:357: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:11:53:831: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:11:53:832: [WD]>>>> Linkup msg from Net
+00:11:53:841: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:53:845: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:11:53:846: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:11:53:943: [WD]>>>> Linkup msg from Net
+00:11:53:952: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:54:957: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:11:57:958: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:11:57:958: [WD]>>>> Linkup msg from Net
+00:11:57:968: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:11:58:972: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:12:03:644: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:12:03:644: [WD]>>>> Linkup msg from Net
+00:12:03:654: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:04:659: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:12:13:368: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:12:13:368: [WD]>>>> Linkup msg from Net
+00:12:13:378: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:13:382: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:12:13:383: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:12:13:479: [WD]>>>> Linkup msg from Net
+00:12:13:488: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:14:493: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:12:17:494: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:12:17:494: [WD]>>>> Linkup msg from Net
+00:12:17:503: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:18:508: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:12:21:509: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:12:21:509: [WD]>>>> Linkup msg from Net
+00:12:21:519: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:24:728: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:12:30:728: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:12:30:729: [WD]>>>> Linkup msg from Net
+00:12:30:739: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:30:742: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:12:30:743: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:12:30:841: [WD]>>>> Linkup msg from Net
+00:12:30:850: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:31:855: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:12:34:856: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:12:34:857: [WD]>>>> Linkup msg from Net
+00:12:34:866: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:35:872: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:12:38:873: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:12:38:873: [WD]>>>> Linkup msg from Net
+00:12:38:883: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:39:887: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:12:48:217: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:12:48:217: [WD]>>>> Linkup msg from Net
+00:12:48:227: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:48:231: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:12:48:231: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:12:48:328: [WD]>>>> Linkup msg from Net
+00:12:48:338: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:49:342: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:12:52:343: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:12:52:344: [WD]>>>> Linkup msg from Net
+00:12:52:353: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:53:358: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:12:56:359: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:12:56:360: [WD]>>>> Linkup msg from Net
+00:12:56:369: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:12:57:373: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:13:03:219: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:13:03:219: [WD]>>>> Linkup msg from Net
+00:13:03:228: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:03:232: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:13:03:233: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:13:03:330: [WD]>>>> Linkup msg from Net
+00:13:03:339: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:04:343: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:13:07:344: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:13:07:344: [WD]>>>> Linkup msg from Net
+00:13:07:354: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:08:360: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:13:11:361: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:13:11:361: [WD]>>>> Linkup msg from Net
+00:13:11:371: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:12:376: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:13:18:223: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:13:18:223: [WD]>>>> Linkup msg from Net
+00:13:18:233: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:18:236: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:13:18:237: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:13:18:334: [WD]>>>> Linkup msg from Net
+00:13:18:343: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:19:348: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:13:22:349: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:13:22:349: [WD]>>>> Linkup msg from Net
+00:13:22:359: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:23:363: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:13:26:364: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:13:26:365: [WD]>>>> Linkup msg from Net
+00:13:26:374: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:27:379: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:13:33:225: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:13:33:225: [WD]>>>> Linkup msg from Net
+00:13:33:234: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:33:238: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:13:33:239: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:13:33:337: [WD]>>>> Linkup msg from Net
+00:13:33:350: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:34:356: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:13:37:357: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:13:37:357: [WD]>>>> Linkup msg from Net
+00:13:37:366: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:41:653: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:13:44:655: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:13:44:655: [WD]>>>> Linkup msg from Net
+00:13:44:664: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:45:670: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:13:54:130: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:13:54:130: [WD]>>>> Linkup msg from Net
+00:13:54:140: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:54:144: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:13:54:145: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:13:54:242: [WD]>>>> Linkup msg from Net
+00:13:54:251: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:55:256: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:13:58:258: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:13:58:258: [WD]>>>> Linkup msg from Net
+00:13:58:268: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:13:59:273: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:14:05:014: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:14:05:015: [WD]>>>> Linkup msg from Net
+00:14:05:024: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:14:06:029: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:14:12:015: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:14:12:015: [WD]>>>> Linkup msg from Net
+00:14:12:025: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:14:12:029: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:14:12:029: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:14:12:126: [WD]>>>> Linkup msg from Net
+00:14:12:135: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:14:13:141: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:14:16:142: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:14:16:142: [WD]>>>> Linkup msg from Net
+00:14:16:152: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:14:17:157: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:14:20:158: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:14:20:158: [WD]>>>> Linkup msg from Net
+00:14:20:168: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:14:21:173: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00;14;23;474: Core1: Instruction at 0x0C00E194 (from SRR0) invalid access of 0x74003A44 (value from DAR)00;14;23;474: --Proc15-Core1--------- OSContext 0x100457E0 --------------------00;14;23;474: tag1  = 0x4F53436F (expecting 0x4F53436F)00;14;23;474: tag2  = 0x6E747874 (expecting 0x6E747874)00;14;23;474: TBR   = 0x0000000C_78CC766400;14;23;474: CR    = 0x2220028200;14;23;474: CTR   = 0x0000000000;14;23;474: LR    = 0x0C00E194 safe|Menu_HandleMultiSelect+0xE000;14;23;474: SRR0  = 0x0C00E194 safe|Menu_HandleMultiSelect+0xE000;14;23;474: SRR1  = 0x0000F07200;14;23;474: state = 0x000600;14;23;474: r0   = 0x0c00e194 (     201384340)  r16  = 0x107a0000 (     276430848)00;14;23;474: r1   = 0x10a817b0 (     279451568)  r17  = 0x00000000 (             0)00;14;23;474: r2   = 0x10a31000 (     279121920)  r18  = 0x105045a0 (     273696160)00;14;23;474: r3   = 0x107a4818 (     276449304)  r19  = 0x107a0000 (     276430848)00;14;23;474: r4   = 0x10a817ad (     279451565)  r20  = 0x1023493c (     270747964)00;14;23;474: r5   = 0x00000000 (             0)  r21  = 0x10a819f0 (     279452144)00;14;23;474: r6   = 0x10a81784 (     279451524)  r22  = 0x00000000 (             0)00;14;23;474: r7   = 0x80808080 (   -2139062144)  r23  = 0x107a3a3c (     276445756)00;14;23;474: r8   = 0x00000000 (             0)  r24  = 0x107a0000 (     276430848)00;14;23;474: r9   = 0x107a4895 (     276449429)  r25  = 0x0099ca2b (      10078763)00;14;23;474: r10  = 0x00000000 (             0)  r26  = 0x62720778 (    1651640184)00;14;23;474: r11  = 0x00000000 (             0)  r27  = 0x00001000 (          4096)00;14;23;474: r12  = 0x00000009 (             9)  r28  = 0x6e74726f (    1853125231)00;14;23;474: r13  = 0x107ab8d4 (     276478164)  r29  = 0x6c6c6572 (    1819043186)00;14;23;474: r14  = 0x44000800 (    1140852736)  r30  = 0x2d746573 (     762602867)00;14;23;475: r15  = 0x10235f00 (     270753536)  r31  = 0x74000000 (    1946157056)00;14;23;475: --Stack Trace--------------------------00;14;23;477: Address:      Back Chain    LR Save00;14;23;477: 0x10a817b0:   0x10a819c8    0x0c00e194 safe|Menu_HandleMultiSelect+0xe000;14;23;477: 0x10a819c8:   0x10a81ae8    0x0c00ece4 safe|Menu_Main+0xac000;14;23;477: 0x10a81ae8:   0x10a81b28    0x0c000590 safe|main+0x3f800;14;23;477: 0x10a81b28:   0x10a81b38    0x0c000024 safe|unknown+0x2400;14;23;477: 0x10a81b38:   0x00000000    0x0101c570 coreinit.rpl|$TEXT+0x17000;14;23;477: 00:14:27:025: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:14:27:027: [WD]>>>> Linkup msg from Net
+00:14:27:082: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:14:27:102: NET: Change admin state (2 -> 2)(iface:1 link:2)
+00:14:27:110: NET: Change admin state (1 -> 1)(iface:0 link:3)
+00:14:27:231: [WD]>>>> Linkup msg from Net
+00:14:27:282: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:14:28:340: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:14:29:594: CBL Trace: Saving COS block log files to SD:/private/Nintendo Wii U/sys/osblocklog/jan25_145559.
+00:14:29:594: CBL Trace: In total, 0 OS memory blocks were saved.
+INFO: nn::ipc avoided busy close on /dev/acp_main (moduleId = 301, tag = 0) from pid = 21
+00:14:29:672: COS encountered unrecoverable error...
+
+Pending Resource Request for COS processes...
+        Title Id       Process Id -> RM Path             
+exited...[+-*APPLICATION EXITED 0*-+][+-*OUTPUT EOF*-+]00:14:31:362: NET: Change admin state (2 -> 1)(iface:0 link:2)
+00:14:31:362: [WD]>>>> Linkup msg from Net
+00:14:31:371: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
+00:14:32:376: NET: Change admin state (1 -> 2)(iface:0 link:2)
+00:14:34:677: MCP: life time number of fatal errors - 504
