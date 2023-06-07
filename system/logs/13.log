@@ -1,368 +1,0 @@
-2022-01-26 11:43:42
-Cafe OS SDK Version 2.13.01 Build 69088 Branch sdk_2_13
-Espresso:       0x0000700100000201
-Latte:          0x0000409f
-System mode:    0x100000
-Boot flags:     0xc200000
-Security Level: 0x1e
-Key Type:       0xfffffffc
-Prod Version:   0x5
-Serial:         910392639
-Model:          WUP-101(02)
-Prod Area:      0x2
-Game Area:      0x2
-5GHz Code:      0x7
-BOOT1:          0x20b9
-BT:             0x205
-DRH:            0x190c
-+0x000500301001110a:0x00000064
-+0x000500301001010a:0x000000c5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
-G!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:12:523: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:13:225: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:14:210: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:14:974: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:15:731: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:15:990: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:18:511: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:19:278: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:20:418: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:21:360: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:21:844: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:23:644: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:24:112: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:10:25:133: Cleaning /vol/storage_usb01/usr/import/crash
-00:10:32:673: MCP: discarding ramdisk cache for '/vol/storage_usb01/usr/title/00050000/10114200'
-00;10;36;872: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdAppearInputForm)00;10;36;872: HWKBD: initialize (region = 1, country code = 17)00;10;40;829: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdDisappearInputForm)00;10;40;829: HWKBD: Teardown00;10;51;720: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdAppearInputForm)00;10;51;720: HWKBD: initialize (region = 1, country code = 17)00;10;55;577: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdDisappearInputForm)00;10;55;577: HWKBD: Teardown00;11;07;753: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdAppearInputForm)00;11;07;753: HWKBD: initialize (region = 1, country code = 17)00;11;12;694: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdDisappearInputForm)00;11;12;694: HWKBD: Teardown00;11;14;877: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdAppearInputForm)00;11;14;877: HWKBD: initialize (region = 1, country code = 17)00;11;21;436: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdDisappearInputForm)00;11;21;436: HWKBD: Teardown00;11;24;520: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdAppearInputForm)00;11;24;520: HWKBD: initialize (region = 1, country code = 17)00;11;33;115: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdDisappearInputForm)00;11;33;115: HWKBD: Teardown00;12;25;431: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdAppearInputForm)00;12;25;431: HWKBD: initialize (region = 1, country code = 17)00;12;31;489: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdDisappearInputForm)00;12;31;489: HWKBD: Teardown00;12;36;759: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdAppearInputForm)00;12;36;759: HWKBD: initialize (region = 1, country code = 17)00;12;39;381: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdDisappearInputForm)00;12;39;381: HWKBD: Teardown00:13:12:293: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:15:150: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:16:602: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:17:336: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:18:204: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:19:963: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:21:175: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:22:054: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:23:010: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:23:691: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:24:456: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:25:353: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:26:240: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:27:040: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:27:794: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:28:583: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:30:508: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:30:627: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:33:013: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:33:148: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:33:635: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:35:236: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:36:016: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:36:796: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:37:899: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:38:777: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:39:714: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:40:409: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:41:154: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:42:008: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:43:008: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:43:878: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:44:731: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:45:405: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:46:368: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:47:207: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:48:061: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:48:829: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:49:716: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:50:702: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:51:523: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:52:397: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:53:309: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:54:064: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:55:072: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:55:839: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:56:529: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:57:261: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:58:094: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:59:058: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:13:59:865: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:00:595: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:01:380: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:01:835: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:03:726: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:04:238: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:05:516: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:06:446: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:07:197: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:08:220: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:08:984: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:09:952: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:10:817: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:12:336: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:13:244: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:20:686: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:21:885: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:22:823: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:23:522: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:24:538: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:25:335: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:26:067: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:26:785: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:27:589: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:28:389: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:29:217: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:29:964: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:30:752: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:31:462: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:32:213: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:33:062: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:33:812: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:34:772: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:35:601: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:36:382: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:37:303: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:38:053: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:38:785: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:39:869: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:40:818: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:41:934: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:42:830: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:43:687: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:44:347: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:14:45:811: Cleaning /vol/storage_usb01/usr/import/crash
-00:14:57:130: MCP: discarding ramdisk cache for '/vol/storage_usb01/usr/title/00050000/10169d00'
-00;15;02;604: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdAppearInputForm)00;15;02;604: HWKBD: initialize (region = 1, country code = 17)00;15;06;761: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdDisappearInputForm)00;15;06;761: HWKBD: Teardown00;15;21;924: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdAppearInputForm)00;15;21;924: HWKBD: initialize (region = 1, country code = 17)00;15;24;996: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdDisappearInputForm)00;15;24;996: HWKBD: Teardown00;15;27;913: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdAppearInputForm)00;15;27;913: HWKBD: initialize (region = 1, country code = 17)00;15;34;606: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x10e3e078, stackEnd=0x10e2e080 (SwkbdDisappearInputForm)00;15;34;606: HWKBD: Teardown00:16:18:662: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:20:819: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:21:653: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:22:287: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:23:322: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:25:021: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:25:857: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:27:008: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:28:081: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:29:081: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:30:163: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:31:239: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:31:944: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:32:997: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:33:848: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:35:010: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:35:168: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:37:170: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:37:301: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:37:669: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:39:565: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:39:703: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:41:573: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:42:397: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:43:407: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:44:397: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:45:331: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:46:140: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:46:936: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:47:787: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:48:763: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:49:678: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:50:709: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:51:547: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:52:593: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:53:451: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:54:119: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:54:889: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:55:952: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:56:290: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:56:688: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:58:142: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:59:014: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:59:141: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:16:59:741: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:17:01:261: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:17:01:613: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:17:26:813: FSA: *WARNING!* Data buffer for write request from pid 0x1 is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.
-00:17:48:306: Cleaning /vol/storage_usb01/usr/import/crash
-------------------------------------------------
-Title Package Destruction detected (Hashed)
- - Error value: -2011
- - Destination: /vol/mcp_devmgr01/usr/import/00050000/10181100/content/alldata.bin
- - Section:     0x000a (id=0x0000000a), 43515904 bytes
- - Block index: 0x000001f5
-------------------------------------------------
-Saving corrupted file as:
- - Path: </vol/mcp_devmgr01/usr/import/crash/2201261201>
- - Size: 65536 bytes
-------------------------------------------------
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-Installation Failure detected
- - Error value: -2011
- - Package:
-   </vol/mcp_rawpkg/install/Mario Party Advance [0005000010181100] (/vol/storage_usb01)>
- - Title:       00050000-10181100 (0x0000)
- - AppType:     80000000
- - Platform:    Cafe
- - Target dev:  usb01
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-Installation failure log will be stored with error code '162-0000'
-00:17:58:815: MCP: life time number of fatal errors - 512

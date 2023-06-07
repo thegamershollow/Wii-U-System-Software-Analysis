@@ -1,169 +1,0 @@
-2023-03-05 06:15:42
-Cafe OS SDK Version 2.13.01 Build 69088 Branch sdk_2_13
-Espresso:       0x0000700100000201
-Latte:          0x0000409f
-System mode:    0x100000
-Boot flags:     0xc200000
-Security Level: 0x1e
-Key Type:       0xfffffffc
-Prod Version:   0x5
-Serial:         910392639
-Model:          WUP-101(02)
-Prod Area:      0x2
-Game Area:      0x2
-5GHz Code:      0x7
-BOOT1:          0x20b9
-BT:             0x205
-DRH:            0x190c
-+0x000500301001110a:0x00000064
-+0x000500301001010a:0x000000c5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x00050002d5b78e01:0x00000000
--0x00050002d5b78e01:0x00000000
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x00050000101d9d00:0x000002b0
--0x00050000101d9d00:0x000002b0
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x0005001010040100:0x000000d5
--0x0005001010040100:0x000000d5
-+0x00050000101d9d00:0x000002b0
-00;56;01;218: ABANDONED ORPHANED IPC REPLY FOR RAMPID 700:56:01:376: AUXIL Info: fast relaunch.
-00;56;01;251: <x(15, 1)"IPC" 34 ms00;56;01;251: >x(15, 1)"Cache"00;56;01;251: <x(15, 1)"Cache" 0 ms00;56;01;251: >x(15, 1)"MEM"00;56;01;251: <x(15, 1)"MEM" 0 ms00;56;01;251: -OSDrivers_Done(p15,c1)00;56;01;251: -OSDrivers_Done(p15,c0)00;56;01;251: -OSDrivers_Done(p15,c2)00;56;01;253: +IPCKDriver_Cleanup(7)00;56;01;253: -IPCKDriver_Cleanup(7)00;56;01;253: ---Root Invoking Recycle---00:56:01:389: MCP: PID 14 requested to enable power transitions
-00:56:01:390: MCP: PID 10 requested to disable power transitions
-00:56:01:391: MCP_PowerButtonControl(0) returned 0
-00;56;01;268: ---PPC USER-LEVEL FAST RESTART---00;56;01;268: New master title is a CafeMenu(0x90000001)00;56;01;268: MASTER TITLE ON   FLASH00:56:01:573: MCP: PID 14 requested to disable power transitions
-00;56;01;452: -----------------------------ROOT IS STARTING MASTER TITLE-----------------------------00;56;01;452: TEST COOKIE: YOSHI-1992-11-21-00-00-0000;56;01;453: DIAG:Issued KiPrepareTitleAsync(0xFFFFFFFFFFFFFFFD)00:56:01:621: MCP: loaded and parsed 'preload.txt' at '/vol/storage_mlc01/sys/title/00050010/10040100/code'
-00:56:01:621: MCP: Preparing men.rpx
-00:56:01:623: MCP: Mapping /vol/content to /vol/storage_mlc01/sys/title/00050010/10040100/content
-00:56:01:628: MCP: Link title:0x0005001010040100 file:/vol/content/Common/Package/Men.pack to ramdisk:/vol/sys/proc_ram/cache/Men.pack
-00:56:01:628: MCP: 0005001010040100 is not a demo title, skip increment demo launch count
-00:56:01:628: MCP: Mapping /vol/content to /vol/storage_mlc01/sys/title/00050010/10040100/content
-00;56;01;501: DIAG:Result PrepareTitle(0xFFFFFFFFFFFFFFFD) came back with cosxml(0x0005001010040100)00;56;01;509: TitleId 0x0005001010040100 Version 0x000000D5 Built On SDK 2121100;56;01;608: port 0 detached00;56;01;649: ------------------PROCESS 1 LOST FOREGROUND--------------------00;56;01;650: DIAG: PhysAlloc(2, 0x40000000, 0x00000000, 0x00000000, 0x02300000, 0x00000001)00;56;01;650: DIAG: InitAddrSpace00;56;01;650: DIAG: Switch(New)00;56;01;650: DIAG:+Loader(1, 7)00;56;01;650: DIAG:+KiRPLLoaderSetup00;56;01;651: DIAG:-KiRPLLoaderSetup: before no-return call to KiLoadContext (0xEFE09400) (0x01003FFC)00;56;01;651: Title Loc is 000:56:01:968: MCP: PID 14 requested to enable power transitions
-00;56;01;847: DIAG:-Loader(1, 7)00;56;01;847: DIAG: SetFG(7)00;56;01;848: KiCblRegisterBlocks() completed with status 0:-4.00;56;01;848: ------------------PROCESS 2 GAIN FOREGROUND--------------------00;56;01;849: SYSLOG_LEVEL 1: Warnings Enabled00;56;01;849: UserMode Core & Thread Initialization (3 Cores)00;56;01;849:   Core 1 Complete, Default Thread 0x100457E000;56;01;851:   Core 0 Complete, MSR 0x00005072, Default Thread 0x1004514000;56;01;853:   Core 2 Complete, MSR 0x00005072, Default Thread 0x10045E8000;56;01;875: UserMode OS library build date: Feb  4 2021 16:38:5800;56;01;875: __AppFlags: 0x0000020000;56;01;876: OSBlockThreadsOnExit default for sdk version 2121100;56;02;211: SYSAPP: RPL Load00;56;02;212: mic_core0_thread: master init00;56;02;231: OSSetting_SynchronousPrinting DISABLED00;56;02;235: OSSetting_CrashDumpType 0, MINI dump after crash00;56;02;270: TCL(2): init DONE00:56:02:440: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;56;02;319: VPADInit() depricated, no need to call00;56;02;319: port 0 attached00;56;02;320: VPAD Init end, BPERF: (0/-932526499) Title PID=2SPM: SetManualMode
-00;56;02;358: mic_drc_attach_cb: ch 0 reason 1 flags 0x0004010000;56;02;359:    ACP_AutoInit: start00;56;02;472:    ACP_AutoInit: ACPInitialize complete00;56;02;473:    ACP_AutoInit: ACPSaveDataInit complete00;56;02;477:    ACP_AutoInit: ACPNotifyPlayEvent complete00;56;02;480:    ACP_AutoInit: NDMInitialize complete00;56;02;513: ACP: initialized00;56;02;520: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;56;02;520: Running WUMSLoader v0.2.100;56;02;531: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;56;02;532: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;56;02;533: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;56;02;534: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;56;02;535: Running FunctionPatcherModule v0.200;56;02;537: Running MemoryMappingModule v0.2.200;56;02;537: Running PatchMemoryRelocationsModule v0.1.100;56;02;537: Running AromaBaseModule v0.2.100;56;02;554: Running NotificationModule v0.1.000;56;02;554: Running ContentRedirectionModule v0.2.400;56;02;554: Running RPXLoadingModule v0.3.200;56;02;684: Running WiiUPluginLoaderBackend v0.2.200;56;02;800: [(M)  content_redirect][             export.cpp]                  CRAddFSLayer@L0101: ##INFO ## Redirecting "/vol/content" to "fs:/vol/external01/wiiu/sdcafiine/0005001010040100/wiiu/content", mode: "merge"00;56;02;802: [(P)         sdcafiine][    modpackSelector.cpp]        ReplaceContentInternal@L0385: ## WARN## Skip /vol/aoc to fs:/vol/external01/wiiu/sdcafiine/0005001010040100/wiiu/aoc redirection. Dir does not exist00;56;02;806: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd01: FSA_STATUS_NOT_FOUND00;56;02;806: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd02: FSA_STATUS_NOT_FOUND00;56;02;807: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd03: FSA_STATUS_NOT_FOUND00;56;02;807: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd04: FSA_STATUS_NOT_FOUND00:56:03:012: ACP: Mounting "/vol/save/" on "/vol/storage_mlc01/usr/save/00050010/10040100/user/"
-00:56:03:013: ACP: Mount done (0)
-00;56;02;881: [(P)   AromaBasePlugin][       UpdaterCheck.cpp]        UpdateCheckThreadEntry@L0098: ##INFO ## Download failed: 6 Could not resolve host: aroma.foryour.cafe00;56;02;883: [barista] Product {:program=>38956, :message=>43332, :programProj=>39097, :root=>39136, :sead=>37528, :resource=>39136}00;56;02;883: [barista] Cafe OS SDK Version 2.12.11 Build 66642 Branch 00;56;02;883: ### Application Start Time [07:11:45] ###00;56;02;884: ================================= MEM_ARENA_2: total free size =  989763(KB),  966(MB)=================================00;56;02;938: [(M)  content_redirect][             export.cpp]                  CRAddFSLayer@L0116: ##INFO ## Redirecting "/vol/save" to "fs:/vol/external01/wiiu/homebrew_on_menu_plugin/save/", mode: "replace"00;56;02;943: WPAD: Application Init00:56:03:176: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:56:03:176: [WD]>>>> Linkup msg from Net
-00:56:03:186: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:56:03:190: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:56:03:190: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:56:03:287: [WD]>>>> Linkup msg from Net
-00:56:03:298: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00;56;04;102: rpl_entry00;56;04;102: OSDynLoad_Acquire() use [2701564]00;56;04;102: ErrEula: client version 3.00;56;04;102: ErrEula: thread=0x4c606540, stackSize=      64 KB, stackBase=0x4c60652c, stackEnd=0x4c5f652c (ErrEulaCreate)00:56:04:305: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00;56;04;526: == sysapp == new path00;56;04;526: ==== sysapp:dump data 102 ====00;56;04;526:    0    <sys:caller_id size=8>HomeButtonMenu<sys:caller_process size=14>mlc <sys:caller_device size=4>00;56;04;526: ==== sysapp:dump data 0 ====00;56;04;526: 00;56;04;607: ==== sysapp:dump data 0 ====00;56;04;607: 00:56:05:668: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:56:05:692: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.DRMAPP: built Feb  4 2021 16:43:4400:56:06:139: MCP: PID 10 requested to enable power transitions
-00:56:06:140: MCP_PowerButtonControl(1) returned 0
-00:56:07:306: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:56:07:306: [WD]>>>> Linkup msg from Net
-00:56:07:315: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:56:08:321: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:56:11:323: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:56:11:324: [WD]>>>> Linkup msg from Net
-00:56:11:334: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:56:12:342: NET: Change admin state (1 -> 2)(iface:0 link:2)
-DRMAPP: kick task: 1DRMAPP: manage state 0 -> 0DRMAPP: Patch: scene state: 302252045 -> 0DRMAPP: mediaType = 2, app-box deviceType = 4DRMAPP: running title = 0005001010040100, deviceType = 3DRMAPP: Retrieve pre-order flag for title 00050000101D9D00 (mediaType = 2)DRMAPP:   --> falseDRMAPP: kick task: 5DRMAPP: manage state 0 -> 3DRMAPP: Patch: scene state: 0 -> 3DRMAPP: kick task: 4DRMAPP: manage state 3 -> 4DRMAPP: Patch: scene state: 3 -> 4DRMAPP: Get title version info.DRMAPP: Get title update info.DRMAPP: TitleVersionInfo:DRMAPP:   currentVersion           688DRMAPP:   requiredVersion          688DRMAPP:   needUpdate               0DRMAPP: kick task: 18DRMAPP: manage state 4 -> 33DRMAPP: CheckTitleEnability: retrieve title info for 00050000101d9d00 (2)DRMAPP: CheckTitleEnability: check title for 00050000101d9d00DRMAPP:  --> 1 (rval = 0)DRMAPP: CheckTitleEnability: retrieve patch info for 0005000e101d9d00 (2)DRMAPP: Patch: scene state: 4 -> 33DRMAPP: CheckTitleEnability: check title for 0005000e101d9d00DRMAPP:  --> 1 (rval = 0)DRMAPP: CheckTitleEnability: check ticket for 0005000e101d9d00DRMAPP:  --> 1 (rval = 0)DRMAPP: kick task: 19DRMAPP: manage state 33 -> 35DRMAPP: Finding package with titleId=0005000e101d9d00, mediaType=2DRMAPP: Patch: scene state: 33 -> 35DRMAPP: kick task: 21DRMAPP: manage state 35 -> 39DRMAPP: current auto update list: 16 entriesDRMAPP:   [0].config.titleId 0x000500101004e100DRMAPP:   [1].config.titleId 0x00050000101d9d00DRMAPP: auto update list already registered.DRMAPP: Patch: scene state: 35 -> 39DRMAPP: new auto update list: 16 entriesDRMAPP:   [0].config.titleId 0x00050000101d9d00DRMAPP:   [1].config.titleId 0x000500101004e100DRMAPP:   [2].config.titleId 0x00050000101d7500DRMAPP:   [3].config.titleId 0x00050000101999ffDRMAPP:   [4].config.titleId 0x000500001017d800DRMAPP:   [5].config.titleId 0x0005000010195700DRMAPP:   [6].config.titleId 0x000500001019e500DRMAPP:   [7].config.titleId 0x000500001014ce00DRMAPP:   [8].config.titleId 0x0005000010106d00DRMAPP:   [9].config.titleId 0x0005000010144f00DRMAPP:   [10].config.titleId 0x00050000101c3400DRMAPP:   [11].config.titleId 0x0005000010169d00DRMAPP:   [12].config.titleId 0x00050000101c9400DRMAPP:   [13].config.titleId 0x0005000010147400DRMAPP:   [14].config.titleId 0x00050000101a5900DRMAPP:   [15].config.titleId 0x0005000010195a00DRMAPP: manage state 39 -> 43DRMAPP: Patch: scene state: 39 -> 43DRMAPP: resume daemons.DRMAPP: AOC: Change state: 65624 -> 0DRMAPP: Excluding add-on unique id (title: 0005001010040100, dev: 3):DRMAPP: [AOC] Title 00050000101d9d00 (mediaType = 2, acpDevType = 4)DRMAPP:   added: add_on_unique_id[0]: 0x00001d9dDRMAPP: manage state 0 -> 1DRMAPP: Non-disc title. Listing in-disc AOC is not needed.DRMAPP: All network package: 0 task(s).DRMAPP: AOC: Change state: 0 -> 1DRMAPP: manage state 1 -> 2DRMAPP: AOC: Change state: 1 -> 2DRMAPP: manage state 2 -> 3DRMAPP: AOC: Change state: 2 -> 3DRMAPP: manage state 3 -> 24DRMAPP: AOC: Change state: 3 -> 24DRMAPP: Check title 0005000c101d9d00(/vol/storage_usb01/usr/title/0005000c/101d9d00)...DRMAPP:   --> trueDRMAPP: Check launchable for 0005000c101d9d00...DRMAPP:   --> trueDRMAPP: manage state 24 -> 14DRMAPP: AOC: Change state: 24 -> 14DRMAPP: manage state 14 -> 17DRMAPP: AOC: Change state: 14 -> 17DRMAPP: manage state 17 -> 28DRMAPP: AOC: Change state: 17 -> 28DRMAPP: manage state 0 -> 0DRMAPP: Ticket: Change state: 302514207 -> 0DRMAPP: manage state 0 -> 1DRMAPP: Ticket: Change state: 0 -> 1DRMAPP: manage state 1 -> 12DRMAPP: Ticket: Change state: 1 -> 12DRMAPP: Kick task: PreOrderChecker::CheckTitleTypeDRMAPP: manage state 7 -> 0DRMAPP: PreOrder: Change state: 0 -> 0DRMAPP: -- isPreOrderTitle: false [title = 00050000101D9D00, media = 2]DRMAPP: manage state 0 -> 3DRMAPP: PreOrder: Change state: 0 -> 3DRMAPP: PreOrder: FinishedDRMAPP: Kick task: FreeTrialChecker::GetTargetTitleTypeDRMAPP: manage state 0 -> 0DRMAPP: FreeTrial: Change state: 671249264 -> 0DRMAPP: Title type: 0 (box = 6750323)DRMAPP: manage state 0 -> 30DRMAPP: FreeTrial: Change state: 0 -> 30DRMAPP: FreeTrial: FinishedDRMAPP: resume daemons.00;56;17;564: ACP: detecting USB storage in CheckTitleLaunchByTitleListType.00;56;17;565: ACP: USB storage detection done in CheckTitleLaunchByTitleListType00:56:17:766: ACP: set boot flag: 0x00000001
-00:56:18:224: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:56:18:225: [WD]>>>> Linkup msg from Net
-00:56:18:234: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:56:18:238: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:56:18:238: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:56:18:351: [WD]>>>> Linkup msg from Net
-00:56:18:362: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:56:18:667: ACP: assign a patch 0x0005000e101d9d00 to 0x00050000101d9d00
-00;56;18;520: ACP: detecting USB storage in AssignTitlePatch.00;56;18;520: ACP: USB storage detection done in AssignTitlePatch00;56;18;760: Querying BSP for Hardware Information...00;56;18;760: 	It is not Holly/Bolly-Wood00;56;18;760: 	It is Latte A2x or later00;56;18;760: using DSP memory parameters:00;56;18;760:     DROM_BASE: 0x300000;56;18;760:     IRAM_SIZE: 0x200000;56;18;760:     DRAM_SIZE: 0x300000:56:19:367: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:56:20:735: MCP: PID 14 requested to disable power transitions
-00:56:20:819: MCP: did not find 'preload.txt' at '/vol/storage_usb01/usr/title/0005000e/101d9d00/code', rval -196631
-00:56:20:819: MCP: Preparing Minecraft.Client.rpx
-00;56;20;705: DIAG:Result PrepareTitle(0x0000000000000000) came back with cosxml(0x00050000101D9D00)00;56;20;705: ***PPC FAST CYCLE***00;56;20;705: SHUTINFO: RAMPID 7 is in Foreground00;56;20;705: SHUTINFO: RAMPID 0 is also alive.00;56;20;705: SHUTINFO: RAMPID 1 is also alive.00;56;20;705: SHUTINFO: RAMPID 5 is also alive.00;56;20;705: SHUTINFO: RAMPID 6 is also alive.00;56;20;705: p2 received EXIT while in foreground.00;56;20;715: ProcUI: Received Release Foreground message (shutdown has begun)00;56;20;716: ProcUI: Releasing foreground00;56;20;777: mic_drc_attach_cb: ch 0 reason 0 flags 0x0000000000;56;20;818: port 0 detached00;56;20;864: Deferred Exit Process 2 - pushing exit message on release.00;56;20;864: p2c1,de EXIT message pushed to system queue.00;56;20;864: ------------------PROCESS 2 LOST FOREGROUND--------------------00;56;20;865: KiCblRegisterBlocks() completed with status 0:-4.00;56;20;865: ------------------PROCESS 1 GAIN FOREGROUND--------------------00;56;20;865: p2c2 EXIT message retrieved from system queue. main() should exit.00:56:21:030: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;56;20;909: TCL(1): init DONE00;56;20;909: port 0 attached00;56;21;029: VPADInit() depricated, no need to call00;56;21;047: sMasterTitleSwitchedToExit00;56;21;047: ROOT: Issuing reboot.00;56;21;068: ROOT: Waiting for EXIT message or RECYCLE message00;56;21;084: ProcUI: Received Exit messageDRMAPP: Finalize00;56;21;188: [(P)           wiiload][        TcpReceiver.cpp]                 executeThread@L0104: ##WARN ## Accept failed 14000;56;21;328: ### Application Exit Time [07:12:03] ###00;56;21;328: [(M)  content_redirect][             export.cpp]               CRRemoveFSLayer@L0135: ##WARN ## CONTENT_REDIRECTION_API_ERROR_LAYER_NOT_FOUND for handle 80520C3000;56;21;382: [(P)            ftpiiu][   BackgroundThread.cpp]                     whileLoop@L0037: ##WARN ## Network is down00;56;21;390: [(M)  content_redirect][             export.cpp]               CRRemoveFSLayer@L0135: ##WARN ## CONTENT_REDIRECTION_API_ERROR_LAYER_NOT_FOUND for handle 8052263000;56;21;390: [(P)  homebrew_on_menu][    SaveRedirection.cpp]        SaveRedirectionCleanUp@L0021: ##ERROR## Failed to remove save FSLayer00;56;21;484: !!WARNING - main() exited with an active thread 0x4C606540 [prio = 81] "Prepare Thread"00;56;21;484: !!WARNING - main() exited with an active thread 0x11BEAEE8 [prio = 80] "WorkerMgr/Worker1(cSub1)"00;56;21;484: !!WARNING - main() exited with an active thread 0x11BEF778 [prio = 80] "WorkerMgr/Worker2(cSub2)"INFO: nn::ipc avoided busy close on /dev/acp_main (moduleId = 301, tag = 0) from pid = 21
-00;56;21;484: !!WARNING - main() exited with an active thread 0x11BA0AF8 [prio = 81] "InitInRootTask"00;56;21;484: !!WARNING - main() exited with an active thread 0x1322B970 [prio = 82] "UpdateScalableFont"00;56;21;484: !!WARNING - main() exited with an active thread 0x140A0748 [prio = 82] "MenUsbStorageChecker"00;56;21;484: !!WARNING - main() exited with an active thread 0x22A670C8 [prio = 81] "LaunchCoreCheckUpdate"00;56;21;484: !!WARNING - main() exited with an active thread 0x274FE0A8 [prio = 83] "FPCheckOnline"00;56;21;484: !!WARNING - main() exited with an active thread 0x2750E7C0 [prio = 83] "FPUpdateRequestList"00;56;21;484: !!WARNING - main() exited with an active thread 0x27A23AA0 [prio = 83] "AccountMgrThread"00;56;21;484: !!WARNING - main() exited with an active thread 0x2841D230 [prio = 81] "MenSwkbdCalculator_Create"00;56;21;484: !!WARNING - main() exited with an active thread 0x2842D9B8 [prio = 81] "MenSwkbdCalculator_Font"00;56;21;484: !!WARNING - main() exited with an active thread 0x2843E118 [prio = 82] "MenSwkbdCalculator_Predict"00;56;21;484: !!WARNING - main() exited with an active thread 0x28475748 [prio = 83] "NetThread"00;56;21;484: !!WARNING - main() exited with an active thread 0x2FEECBF0 [prio = 83] "MiiThread"00;56;21;484: !!WARNING - main() exited with an active thread 0x349FF6A0 [prio = 83] "TexCreate"00;56;21;484: !!WARNING - main() exited with an active thread 0x365EB8C8 [prio = 82] "LateLoader"00;56;21;484: !!WARNING - main() exited with an active thread 0x3830A1B0 [prio = 81] "MiiSaveJob"00;56;21;484: !!WARNING - main() exited with an active thread 0x38E6B3B8 [prio = 81] "Loginout"00;56;21;484: !!WARNING - main() exited with an active thread 0x393F2FB8 [prio = 84] "EulaThred"00;56;21;484: !!WARNING - main() exited with an active thread 0x3987D590 [prio = 81] "SeqLaunchPushRating"00;56;21;484: +OSDrivers_Done(p2,c1)00;56;21;484: +OSDrivers_Done(p2,c2)00;56;21;484: __OSShutdownIdleBegin()00;56;21;484: __OSSetMaxSchedulingBand 100;56;21;484: +OSDrivers_Done(p2,c0)00;56;21;484: >x(2, 1)"TEST"00;56;21;484: <x(2, 1)"TEST" 0 ms00;56;21;484: >x(2, 1)"Button"00;56;21;484: <x(2, 1)"Button" 0 ms00;56;21;485: >x(2, 1)"Clipboard"00;56;21;485: <x(2, 1)"Clipboard" 0 ms00;56;21;485: >x(2, 1)"ACP"00;56;21;496: <x(2, 1)"ACP" 11 ms00;56;21;496: >x(2, 1)"ACPLoad"00;56;21;496: <x(2, 1)"ACPLoad" 0 ms00;56;21;496: >x(2, 1)"INPT"00;56;21;496: <x(2, 1)"INPT" 0 ms00;56;21;496: >x(2, 0)"ccr_mic"00;56;21;496: <x(2, 0)"ccr_mic" 0 ms00;56;21;496: >x(2, 1)"NTAG"00;56;21;496: <x(2, 1)"NTAG" 0 ms00;56;21;496: >x(2, 1)"UVD"00;56;21;510: <x(2, 1)"UVD" 14 ms00;56;21;510: >x(2, 1)"GX2"00;56;21;510: <x(2, 1)"GX2" 0 ms00;56;21;510: >x(2, 1)"ProcUI"00;56;21;510: <x(2, 1)"ProcUI" 0 ms00;56;21;510: >x(2, 1)"UHS"00;56;21;510: <x(2, 1)"UHS" 0 ms00;56;21;510: >x(2, 1)"AVM"00;56;21;510: <x(2, 1)"AVM" 0 ms00;56;21;510: >x(2, 1)"VPAD"00;56;21;511: <x(2, 1)"VPAD" 0 ms00;56;21;511: >x(2, 1)"WPAD"00;56;21;511: <x(2, 1)"WPAD" 0 ms00;56;21;511: >x(2, 1)"NETWORK"00;56;21;511: <x(2, 1)"NETWORK" 0 ms00;56;21;511: >x(2, 1)"CCR"00;56;21;511: <x(2, 1)"CCR" 0 ms00;56;21;511: >x(2, 1)"TCL"00;56;21;511: <x(2, 1)"TCL" 0 ms00;56;21;511: >x(2, 1)"FS"Fsa profiler has been disabled already.00;56;21;511: <x(2, 1)"FS" 0 ms00;56;21;511: >x(2, 1)"SETTING"00;56;21;511: <x(2, 1)"SETTING" 0 ms00;56;21;511: >x(2, 1)"IPC"00;56;21;512: ABANDONED ORPHANED IPC REPLY FOR RAMPID 700;56;21;512: ABANDONED ORPHANED IPC REPLY FOR RAMPID 700:56:21:670: MCP: Unlink title:0x0005001010040100 file:/vol/content/Common/Package/Men.pack from ramdisk:/vol/sys/proc_ram/cache/Men.pack
-00:56:21:675: AUXIL Info: fast relaunch.
-00;56;21;549: ABANDONED ORPHANED IPC REPLY FOR RAMPID 700;56;21;549: <x(2, 1)"IPC" 37 ms00;56;21;549: >x(2, 1)"Cache"00;56;21;549: <x(2, 1)"Cache" 0 ms00;56;21;549: >x(2, 1)"MEM"00;56;21;549: <x(2, 1)"MEM" 0 ms00;56;21;549: -OSDrivers_Done(p2,c1)00;56;21;549: -OSDrivers_Done(p2,c2)00;56;21;549: -OSDrivers_Done(p2,c0)00;56;21;552: +IPCKDriver_Cleanup(7)00;56;21;552: -IPCKDriver_Cleanup(7)00;56;21;552: ---Root Invoking Recycle---00:56:21:688: MCP: PID 14 requested to enable power transitions
-00:56:21:690: MCP: PID 10 requested to disable power transitions
-00:56:21:690: MCP_PowerButtonControl(0) returned 0
-00;56;21;567: ---PPC USER-LEVEL FAST RESTART---00;56;21;567: New master title is a Game(0x80000000)00;56;21;567: MASTER TITLE ON   USB00:56:21:870: MCP: PID 14 requested to disable power transitions
-00;56;21;749: -----------------------------ROOT IS STARTING MASTER TITLE-----------------------------00;56;21;749: TEST COOKIE: YOSHI-1992-11-21-00-00-0000:56:21:943: MCP: did not find 'preload.txt' at '/vol/storage_usb01/usr/title/0005000e/101d9d00/code', rval -196631
-00:56:21:944: MCP: Preparing Minecraft.Client.rpx
-00;56;21;830: DIAG:Result PrepareTitle(0x0000000000000000) came back with cosxml(0x00050000101D9D00)00:56:21:957: MCP: Mapping /vol/content to /vol/storage_usb01/usr/title/00050000/101d9d00/content
-00:56:21:957: MCP: Mapping patch for /vol/content to /vol/storage_usb01/usr/title/0005000e/101d9d00/content
-00:56:21:958: MCP: 00050000101D9D00 is not a demo title, skip increment demo launch count
-00:56:21:958: MCP: Mapping /vol/content to /vol/storage_usb01/usr/title/00050000/101d9d00/content
-00:56:21:959: MCP: Mapping patch for /vol/content to /vol/storage_usb01/usr/title/0005000e/101d9d00/content
-00;56;21;840: TitleId 0x00050000101D9D00 Version 0x000002B0 Built On SDK 2121300;56;21;929: port 0 detached00;56;21;970: ------------------PROCESS 1 LOST FOREGROUND--------------------00;56;21;970: DIAG: PhysAlloc(15, 0x40000000, 0x00000000, 0x00000000, 0x0E000000, 0x00000001)00;56;21;970: DIAG: InitAddrSpace00;56;21;971: DIAG: Switch(New)00;56;21;971: DIAG:+Loader(1, 7)00;56;21;971: DIAG:+KiRPLLoaderSetup00;56;21;971: DIAG:-KiRPLLoaderSetup: before no-return call to KiLoadContext (0xEFE09400) (0x01003FFC)00;56;21;971: Title Loc is 200:56:22:370: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:56:22:370: [WD]>>>> Linkup msg from Net
-00:56:22:379: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:56:23:282: MCP: PID 14 requested to enable power transitions
-00;56;23;162: DIAG:-Loader(1, 7)00;56;23;162: DIAG: SetFG(7)00;56;23;162: KiCblRegisterBlocks() completed with status 0:-4.00;56;23;162: ------------------PROCESS 15 GAIN FOREGROUND--------------------00;56;23;164: SYSLOG_LEVEL 1: Warnings Enabled00;56;23;164: UserMode Core & Thread Initialization (3 Cores)00;56;23;164:   Core 1 Complete, Default Thread 0x100457E000;56;23;165:   Core 0 Complete, MSR 0x00005072, Default Thread 0x1004514000;56;23;167:   Core 2 Complete, MSR 0x00005072, Default Thread 0x10045E8000;56;23;189: UserMode OS library build date: Feb  4 2021 16:38:5800;56;23;189: __AppFlags: 0x0000020000;56;23;190: OSBlockThreadsOnExit default for sdk version 2121300:56:23:387: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00;56;23;715: Replace coreinit.rpl's default heap in the RPX.00;56;23;715: mic_core0_thread: master init00;56;23;716: SYSAPP: RPL Load00;56;23;737: OSSetting_SynchronousPrinting DISABLED00;56;23;741: OSSetting_CrashDumpType 0, MINI dump after crash00;56;23;775: TCL(15): init DONE00:56:23:945: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-SPM: SetManualMode
-00;56;23;824: VPADInit() depricated, no need to call00;56;23;825: port 0 attached00;56;23;825: VPAD Init end, BPERF: (0/-911021077) Title PID=1500;56;23;826: mic_drc_attach_cb: ch 0 reason 1 flags 0x0004010000;56;23;827:    ACP_AutoInit: start00;56;23;861:    ACP_AutoInit: ACPInitialize complete00;56;23;862:    ACP_AutoInit: ACPSaveDataInit complete00;56;23;866:    ACP_AutoInit: ACPNotifyPlayEvent complete00;56;23;868:    ACP_AutoInit: NDMInitialize complete00;56;23;869: ACP: initialized00;56;23;877: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;56;23;878: Running WUMSLoader v0.2.100;56;23;888: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;56;23;889: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;56;23;890: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;56;23;891: [(M)  content_redirect][     FSReplacements.cpp]        processFSAShimInThread@L0128: ##WARN ## Threads are not running yet, skip replacement00;56;23;891: Running FunctionPatcherModule v0.200;56;23;893: Running MemoryMappingModule v0.2.200;56;23;893: Running PatchMemoryRelocationsModule v0.1.100;56;23;893: Running AromaBaseModule v0.2.100;56;23;911: Running NotificationModule v0.1.000;56;23;911: Running ContentRedirectionModule v0.2.400;56;23;911: Running RPXLoadingModule v0.3.200;56;24;041: Running WiiUPluginLoaderBackend v0.2.200;56;24;158: [(M)  content_redirect][             export.cpp]                  CRAddFSLayer@L0101: ##INFO ## Redirecting "/vol/content" to "fs:/vol/external01/wiiu/sdcafiine/00050000101D9D00/Minecraft Wii U Edition/content", mode: "merge"00;56;24;161: [(P)         sdcafiine][    modpackSelector.cpp]        ReplaceContentInternal@L0385: ## WARN## Skip /vol/aoc to fs:/vol/external01/wiiu/sdcafiine/00050000101D9D00/Minecraft Wii U Edition/aoc redirection. Dir does not exist00;56;24;164: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd01: FSA_STATUS_NOT_FOUND00;56;24;165: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd02: FSA_STATUS_NOT_FOUND00;56;24;166: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd03: FSA_STATUS_NOT_FOUND00;56;24;166: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd04: FSA_STATUS_NOT_FOUND00;56;24;246: ==== sysapp:dump data 91 ====00;56;24;246:         <sys:caller_id size=8>Menu<sys:caller_process size=4>mlc <sys:caller_device size=4>00;56;24;284: VPADInit() depricated, no need to call00;56;24;285: WPAD: Application Init00;56;24;381: rpl_entry00;56;24;381: OSDynLoad_Acquire() use [2701580]00;56;24;381: ErrEula: client version 3.00;56;24;381: ErrEula: thread=0x100457e0, stackSize=      63 KB, stackBase=0x11b0f7f8, stackEnd=0x11aff800 (ErrEulaCreate)00;56;24;654: rpl_entry00;56;24;654: SWKBD: OSDynLoad_Acquire() use [3133788/3670016]00;56;24;654: SWKBD: client version 3.00;56;24;654: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x11b0f7f8, stackEnd=0x11aff800 (SwkbdCreate)00:56:26:388: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:56:26:388: [WD]>>>> Linkup msg from Net
-00:56:26:400: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:56:27:318: CSC: Product Code: WUP-P-AUME, Title Version (major): 43
-00;56;27;183: ErrEula: thread=0x10a2a8c8, stackSize=     128 KB, stackBase=0x10a2a8c8, stackEnd=0x10a0a8c8 (ErrEulaAppearError)00;56;27;183: ErrEula :ErrorCode = 000;56;27;183: ErrEula: thread=0x10a2a8c8, stackSize=     128 KB, stackBase=0x10a2a8c8, stackEnd=0x10a0a8c8 (ErrEulaCalc)00:56:27:330: CSC: Repaired: TRUE, Wagon: FALSE
-00:56:27:335: CSC: InitialLaunch stage: 2
-00:56:27:340: CSC: USB Storage Connected: TRUE, Device Type: USB
-00:56:27:364: CSC: RCA Enabled: FALSE, KeepAlive Enabled: FALSE, ParentControl Enable: TRUE
-00:56:27:368: CSC: Check : /vol/storage_mlc01/usr/boss/00050000/101d9d00/user/common/ (-196631)
-00:56:27:369: CSC: Check : /vol/storage_mlc01/usr/boss/00050000/101d9d00/user/80000010/ (-196631)
-00:56:27:375: CSC: Check : /vol/storage_usb01/usr/boss/00050000/101d9d00/user/common/ (-196631)
-00:56:27:376: CSC: Check : /vol/storage_usb01/usr/boss/00050000/101d9d00/user/80000010/ (-196631)
-00:56:27:377: CSC: Check : /vol/storage_usb02/usr/boss/00050000/101d9d00/user/common/ (-196631)
-00:56:27:378: CSC: Check : /vol/storage_usb02/usr/boss/00050000/101d9d00/user/80000010/ (-196631)
-00:56:27:379: CSC: Boss Storage Exist: FALSE, NetworkID Assigned: FALSE, System Network Connected: FALSE
-00:56:27:406: CSC: NIC Type: WIFI, DNS obtained by DHCP: TRUE, IP obtained by DHCP: TRUE
-00:56:27:408: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:56:27:413: CSC: TV Port: HDMI, TV Aspect Ratio: 16:9
-00:56:27:419: CSC: TV Resolution: TV_1080P
-00:56:27:419: CSC: CODE: [AUMY-2261-0375]
-2023-03-05 07:12:09 - log collection event from pid 21
-00:56:27:424: MCP: life time number of fatal errors - 548

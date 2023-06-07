@@ -1,335 +1,0 @@
-2022-03-04 16:02:08
-Cafe OS SDK Version 2.13.01 Build 69088 Branch sdk_2_13
-Espresso:       0x0000700100000201
-Latte:          0x0000409f
-System mode:    0x100000
-Boot flags:     0x84010000
-Security Level: 0x1e
-Key Type:       0xfffffffc
-Prod Version:   0x5
-Serial:         910392639
-Model:          WUP-101(02)
-Prod Area:      0x2
-Game Area:      0x2
-5GHz Code:      0x7
-BOOT1:          0x20b9
-DRH:            0x190c
-BT:             0x205
-+0x000500301001110a:0x00000064
-+0x000500301001010a:0x000000c5
-+0x000500101004e100:0x00000081
--0x000500101004e100:0x00000081
-+0x000500101004a100:0x00000032
--0x000500101004a100:0x00000032
-+0x000500101004a100:0x00000032
--0x000500101004a100:0x00000032
-+0x000500101004a100:0x00000032
--0x000500101004a100:0x00000032
-+0x000500101004a100:0x00000032
--0x000500101004a100:0x00000032
-+0x000500101004a100:0x00000032
--0x000500101004a100:0x00000032
-+0x000500101004a100:0x00000032
--0x000500101004a100:0x00000032
-+0x000500101004a100:0x00000032
-ange admin state (1 -> 2)(iface:0 link:2)
-00:02:41:048: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:02:41:048: [WD]>>>> Linkup msg from Net
-00:02:41:059: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:02:41:062: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:02:41:063: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:02:41:160: [WD]>>>> Linkup msg from Net
-00:02:41:172: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:02:42:177: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:02:45:177: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:02:45:177: [WD]>>>> Linkup msg from Net
-00:02:45:187: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:02:46:192: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:02:49:193: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:02:49:193: [WD]>>>> Linkup msg from Net
-00:02:49:203: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:02:50:208: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:02:56:051: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:02:56:051: [WD]>>>> Linkup msg from Net
-00:02:56:060: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:02:56:064: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:02:56:065: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:02:56:162: [WD]>>>> Linkup msg from Net
-00:02:56:172: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:02:57:177: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:03:00:178: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:00:178: [WD]>>>> Linkup msg from Net
-00:03:00:188: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:01:193: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:03:04:193: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:04:194: [WD]>>>> Linkup msg from Net
-00:03:04:204: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:05:208: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:03:11:052: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:11:052: [WD]>>>> Linkup msg from Net
-00:03:11:062: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:11:066: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:03:11:067: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:03:11:163: [WD]>>>> Linkup msg from Net
-00:03:11:173: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:12:179: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:03:15:180: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:15:180: [WD]>>>> Linkup msg from Net
-00:03:15:190: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:16:195: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:03:19:196: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:19:197: [WD]>>>> Linkup msg from Net
-00:03:19:206: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:20:211: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:03:26:054: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:26:055: [WD]>>>> Linkup msg from Net
-00:03:26:064: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:26:068: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:03:26:068: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:03:26:166: [WD]>>>> Linkup msg from Net
-00:03:26:175: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:27:180: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:03:30:181: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:30:181: [WD]>>>> Linkup msg from Net
-00:03:30:191: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:31:195: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:03:34:196: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:34:196: [WD]>>>> Linkup msg from Net
-00:03:34:206: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:35:211: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00;03;37;801: DRC HOME Button Pressed! 00;03;37;801: __set_button_state : setting state to 300:03:41:057: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:41:057: [WD]>>>> Linkup msg from Net
-00:03:41:067: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:41:071: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:03:41:072: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:03:41:169: [WD]>>>> Linkup msg from Net
-00:03:41:178: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:42:183: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:03:45:184: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:45:184: [WD]>>>> Linkup msg from Net
-00:03:45:195: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:46:201: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:03:49:202: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:49:202: [WD]>>>> Linkup msg from Net
-00:03:49:212: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:50:217: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:03:56:060: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:03:56:061: [WD]>>>> Linkup msg from Net
-00:03:56:070: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:56:074: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:03:56:075: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:03:56:171: [WD]>>>> Linkup msg from Net
-00:03:56:181: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:03:57:186: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:00:186: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:00:186: [WD]>>>> Linkup msg from Net
-00:04:00:196: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:01:202: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00;04;01;178: AXIST thread has stopped00;04;02;054: ACP: detecting USB storage in CheckSelfTitleNotReferAcctLaunch.00;04;02;055: ACP: USB storage detection done in CheckSelfTitleNotReferAcctLaunch00:04:02:192: ACP: set boot flag: 0x00000000
-00:04:02:275: MCP: PID 14 requested to disable power transitions
-00;04;02;156: OSRestartGame("/vol/storage_mlc01/sys/title/00050010/1004a100",...)00:04:02:328: MCP: did not find 'preload.txt' at '/vol/storage_mlc01/sys/title/00050010/1004a100/code', rval -196631
-00:04:02:328: MCP: Preparing ffl_app.rpx
-00;04;02;216: DIAG:Result PrepareTitle(0x0000000000000000) came back with cosxml(0x000500101004A100)00;04;02;216: ***PPC FAST CYCLE***00;04;02;216: SHUTINFO: RAMPID 7 is in Foreground00;04;02;216: SHUTINFO: RAMPID 0 is also alive.00;04;02;216: SHUTINFO: RAMPID 1 is also alive.00;04;02;216: SHUTINFO: RAMPID 5 is also alive.00;04;02;216: SHUTINFO: RAMPID 6 is also alive.00;04;02;216: p15 received EXIT while in foreground.00;04;02;216: !!!WARNING: Thread on active queue has bad name (0x0D9EFA18)00;04;02;216: +OSDrivers_Done(p15,c1)00;04;02;216: +OSDrivers_Done(p15,c0)00;04;02;216: +OSDrivers_Done(p15,c2)00;04;02;216: __OSShutdownIdleBegin()00;04;02;216: __OSSetMaxSchedulingBand 100;04;02;328: BT: WPAD/BTSHIM Autodone (Non master)00;04;02;332: port 0 detachedFsa profiler has been disabled already.00;04;02;333: ABANDONED ORPHANED IPC REPLY FOR RAMPID 700:04:02:503: AUXIL Info: fast relaunch.
-00;04;02;378: -OSDrivers_Done(p15,c1)00;04;02;378: -OSDrivers_Done(p15,c2)00;04;02;378: -OSDrivers_Done(p15,c0)00;04;02;380: ------------------PROCESS 15 LOST FOREGROUND--------------------00;04;02;380: +IPCKDriver_Cleanup(7)00;04;02;380: -IPCKDriver_Cleanup(7)00;04;02;381: KiCblRegisterBlocks() completed with status 0:-4.00;04;02;381: ------------------PROCESS 1 GAIN FOREGROUND--------------------00:04:02:546: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;04;02;425: TCL(1): init DONE00;04;02;426: port 0 attached00;04;02;481: VPADInit() depricated, no need to call00;04;02;496: ROOT: Waiting for EXIT message or RECYCLE message00;04;02;496: ---Root Invoking Recycle---00:04:02:631: MCP: PID 14 requested to enable power transitions
-00:04:02:632: MCP: PID 10 requested to disable power transitions
-00:04:02:632: MCP_PowerButtonControl(0) returned 0
-00;04;02;510: ---PPC USER-LEVEL FAST RESTART---00;04;02;511: New master title is a Game(0x90000020)00;04;02;511: MASTER TITLE ON   FLASH00:04:02:801: MCP: PID 14 requested to disable power transitions
-00;04;02;681: -----------------------------ROOT IS STARTING MASTER TITLE-----------------------------00;04;02;681: TEST COOKIE: YOSHI-1992-11-21-00-00-0000:04:02:847: MCP: did not find 'preload.txt' at '/vol/storage_mlc01/sys/title/00050010/1004a100/code', rval -196631
-00:04:02:847: MCP: Preparing ffl_app.rpx
-00:04:02:851: MCP: Mapping /vol/content to /vol/storage_mlc01/sys/title/00050010/1004a100/content
-00:04:02:852: MCP: Mapping /vol/content to /vol/storage_mlc01/sys/title/00050010/1004a100/content
-00;04;02;730: DIAG:Result PrepareTitle(0x0000000000000000) came back with cosxml(0x000500101004A100)00;04;02;733: TitleId 0x000500101004A100 Version 0x00000032 Built On SDK 2090900;04;02;830: port 0 detached00;04;02;871: ------------------PROCESS 1 LOST FOREGROUND--------------------00;04;02;871: DIAG: PhysAlloc(15, 0x40000000, 0x00000000, 0x00000000, 0x03000000, 0x00000001)00;04;02;871: DIAG: InitAddrSpace00;04;02;872: DIAG: Switch(New)00;04;02;872: DIAG:+Loader(1, 7)00;04;02;872: DIAG:+KiRPLLoaderSetup00;04;02;872: DIAG:-KiRPLLoaderSetup: before no-return call to KiLoadContext (0xEFE09400) (0x01003FFC)00;04;02;872: Title Loc is 000:04:03:325: failed to read file /vol/storage_mlc01/sys/title/00050010/1004a100/code/ffl_app.rpx, err -196651
-00:04:03:555: MCP: PID 14 requested to enable power transitions
-00;04;03;435: DIAG:-Loader(1, 7)00;04;03;435: DIAG: SetFG(7)00;04;03;435: KiCblRegisterBlocks() completed with status 0:-4.00;04;03;435: ------------------PROCESS 15 GAIN FOREGROUND--------------------00;04;03;437: SYSLOG_LEVEL 1: Warnings Enabled00;04;03;437: UserMode Core & Thread Initialization (3 Cores)00;04;03;437:   Core 1 Complete, Default Thread 0x100457E000;04;03;438:   Core 0 Complete, MSR 0x00005072, Default Thread 0x1004514000;04;03;440:   Core 2 Complete, MSR 0x00005072, Default Thread 0x10045E8000;04;03;462: UserMode OS library build date: Feb  4 2021 16:38:5800;04;03;462: __AppFlags: 0x0000020000;04;03;463: OSBlockThreadsOnExit default for sdk version 2090900;04;03;631: SYSAPP: RPL Load00;04;03;649: OSSetting_SynchronousPrinting DISABLED00;04;03;654: OSSetting_CrashDumpType 0, MINI dump after crash00;04;03;687: TCL(15): init DONE00:04:03:858: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-SPM: SetManualMode
-00;04;03;737: VPADInit() depricated, no need to call00;04;03;737: port 0 attached00;04;03;738: VPAD Init end, BPERF: (0/243858543) Title PID=1500;04;03;740:    ACP_AutoInit: start00;04;03;767:    ACP_AutoInit: ACPInitialize complete00;04;03;767:    ACP_AutoInit: ACPSaveDataInit complete00;04;03;772:    ACP_AutoInit: ACPNotifyPlayEvent complete00;04;03;774:    ACP_AutoInit: NDMInitialize complete00:04:04:203: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:04:203: [WD]>>>> Linkup msg from Net
-00:04:04:212: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00;04;04;179: ACP: initialized00:04:05:217: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:07:067: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:07:067: [WD]>>>> Linkup msg from Net
-00:04:07:076: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:07:080: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:04:07:080: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:04:07:183: [WD]>>>> Linkup msg from Net
-00:04:07:192: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:07:799: MCP: PID 10 requested to enable power transitions
-00:04:07:799: MCP_PowerButtonControl(1) returned 0
-00:04:08:196: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:11:197: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:11:197: [WD]>>>> Linkup msg from Net
-00:04:11:206: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:12:211: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:15:212: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:15:212: [WD]>>>> Linkup msg from Net
-00:04:15:221: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:16:226: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:16:243: SOMemOpt: Allocated socket buffers in provided memory (head:0x0x52c41f00) (497088 bytes used)
-00;04;16;126: WPAD: Application Init00:04:22:069: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:22:070: [WD]>>>> Linkup msg from Net
-00:04:22:079: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:22:083: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:04:22:084: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:04:22:180: [WD]>>>> Linkup msg from Net
-00:04:22:190: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:23:195: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:26:197: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:26:197: [WD]>>>> Linkup msg from Net
-00:04:26:206: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00;04;26;771: AXIST thread has stopped00:04:27:211: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00;04;27;696: ACP: detecting USB storage in CheckSelfTitleNotReferAcctLaunch.00;04;27;697: ACP: USB storage detection done in CheckSelfTitleNotReferAcctLaunch00:04:27:834: ACP: set boot flag: 0x00000000
-00:04:27:918: MCP: PID 14 requested to disable power transitions
-00;04;27;798: OSRestartGame("/vol/storage_mlc01/sys/title/00050010/1004a100",...)00:04:27:967: MCP: did not find 'preload.txt' at '/vol/storage_mlc01/sys/title/00050010/1004a100/code', rval -196631
-00:04:27:968: MCP: Preparing ffl_app.rpx
-00;04;27;848: DIAG:Result PrepareTitle(0x0000000000000000) came back with cosxml(0x000500101004A100)00;04;27;848: ***PPC FAST CYCLE***00;04;27;848: SHUTINFO: RAMPID 7 is in Foreground00;04;27;848: SHUTINFO: RAMPID 0 is also alive.00;04;27;848: SHUTINFO: RAMPID 1 is also alive.00;04;27;848: SHUTINFO: RAMPID 5 is also alive.00;04;27;848: SHUTINFO: RAMPID 6 is also alive.00;04;27;848: p15 received EXIT while in foreground.00;04;27;848: !!!WARNING: Thread on active queue has bad name (0x0DA6687C)00;04;27;848: +OSDrivers_Done(p15,c1)00;04;27;848: +OSDrivers_Done(p15,c2)00;04;27;848: +OSDrivers_Done(p15,c0)00;04;27;848: __OSShutdownIdleBegin()00;04;27;848: __OSSetMaxSchedulingBand 100;04;27;954: BT: WPAD/BTSHIM Autodone (Non master)00;04;27;957: port 0 detachedFsa profiler has been disabled already.00;04;27;958: ABANDONED ORPHANED IPC REPLY FOR RAMPID 700:04:28:129: AUXIL Info: fast relaunch.
-00;04;28;003: -OSDrivers_Done(p15,c1)00;04;28;003: -OSDrivers_Done(p15,c2)00;04;28;003: -OSDrivers_Done(p15,c0)00;04;28;006: ------------------PROCESS 15 LOST FOREGROUND--------------------00;04;28;006: +IPCKDriver_Cleanup(7)00;04;28;006: -IPCKDriver_Cleanup(7)00;04;28;006: KiCblRegisterBlocks() completed with status 0:-4.00;04;28;006: ------------------PROCESS 1 GAIN FOREGROUND--------------------00:04:28:172: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;04;28;051: TCL(1): init DONE00;04;28;051: port 0 attached00;04;28;108: VPADInit() depricated, no need to call00;04;28;122: ROOT: Waiting for EXIT message or RECYCLE message00;04;28;122: ---Root Invoking Recycle---00:04:28:256: MCP: PID 14 requested to enable power transitions
-00:04:28:257: MCP: PID 10 requested to disable power transitions
-00:04:28:257: MCP_PowerButtonControl(0) returned 0
-00;04;28;136: ---PPC USER-LEVEL FAST RESTART---00;04;28;136: New master title is a Game(0x90000020)00;04;28;136: MASTER TITLE ON   FLASH00:04:28:427: MCP: PID 14 requested to disable power transitions
-00;04;28;306: -----------------------------ROOT IS STARTING MASTER TITLE-----------------------------00;04;28;306: TEST COOKIE: YOSHI-1992-11-21-00-00-0000:04:28:473: MCP: did not find 'preload.txt' at '/vol/storage_mlc01/sys/title/00050010/1004a100/code', rval -196631
-00:04:28:473: MCP: Preparing ffl_app.rpx
-00:04:28:477: MCP: Mapping /vol/content to /vol/storage_mlc01/sys/title/00050010/1004a100/content
-00:04:28:478: MCP: Mapping /vol/content to /vol/storage_mlc01/sys/title/00050010/1004a100/content
-00;04;28;355: DIAG:Result PrepareTitle(0x0000000000000000) came back with cosxml(0x000500101004A100)00;04;28;359: TitleId 0x000500101004A100 Version 0x00000032 Built On SDK 2090900;04;28;454: port 0 detached00;04;28;495: ------------------PROCESS 1 LOST FOREGROUND--------------------00;04;28;495: DIAG: PhysAlloc(15, 0x40000000, 0x00000000, 0x00000000, 0x03000000, 0x00000001)00;04;28;495: DIAG: InitAddrSpace00;04;28;496: DIAG: Switch(New)00;04;28;496: DIAG:+Loader(1, 7)00;04;28;496: DIAG:+KiRPLLoaderSetup00;04;28;497: DIAG:-KiRPLLoaderSetup: before no-return call to KiLoadContext (0xEFE09400) (0x01003FFC)00;04;28;497: Title Loc is 000:04:28:949: failed to read file /vol/storage_mlc01/sys/title/00050010/1004a100/code/ffl_app.rpx, err -196651
-00:04:29:179: MCP: PID 14 requested to enable power transitions
-00;04;29;059: DIAG:-Loader(1, 7)00;04;29;059: DIAG: SetFG(7)00;04;29;059: KiCblRegisterBlocks() completed with status 0:-4.00;04;29;059: ------------------PROCESS 15 GAIN FOREGROUND--------------------00;04;29;061: SYSLOG_LEVEL 1: Warnings Enabled00;04;29;061: UserMode Core & Thread Initialization (3 Cores)00;04;29;061:   Core 1 Complete, Default Thread 0x100457E000;04;29;062:   Core 0 Complete, MSR 0x00005072, Default Thread 0x1004514000;04;29;064:   Core 2 Complete, MSR 0x00005072, Default Thread 0x10045E8000;04;29;086: UserMode OS library build date: Feb  4 2021 16:38:5800;04;29;086: __AppFlags: 0x0000020000;04;29;087: OSBlockThreadsOnExit default for sdk version 2090900;04;29;255: SYSAPP: RPL Load00;04;29;274: OSSetting_SynchronousPrinting DISABLED00;04;29;279: OSSetting_CrashDumpType 0, MINI dump after crash00;04;29;312: TCL(15): init DONE00:04:29:483: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-SPM: SetManualMode
-00;04;29;362: VPADInit() depricated, no need to call00;04;29;363: port 0 attached00;04;29;364: VPAD Init end, BPERF: (0/269484174) Title PID=1500;04;29;366:    ACP_AutoInit: start00;04;29;392:    ACP_AutoInit: ACPInitialize complete00;04;29;392:    ACP_AutoInit: ACPSaveDataInit complete00;04;29;397:    ACP_AutoInit: ACPNotifyPlayEvent complete00;04;29;400:    ACP_AutoInit: NDMInitialize complete00;04;29;711: ACP: initialized00:04:30:212: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:30:212: [WD]>>>> Linkup msg from Net
-00:04:30:221: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:31:226: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:33:072: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:33:072: [WD]>>>> Linkup msg from Net
-00:04:33:081: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:33:085: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:04:33:085: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:04:33:182: [WD]>>>> Linkup msg from Net
-00:04:33:191: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:33:331: MCP: PID 10 requested to enable power transitions
-00:04:33:332: MCP_PowerButtonControl(1) returned 0
-00:04:34:195: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:37:196: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:37:197: [WD]>>>> Linkup msg from Net
-00:04:37:206: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:38:210: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:41:211: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:41:211: [WD]>>>> Linkup msg from Net
-00:04:41:221: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:42:226: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:42:277: SOMemOpt: Allocated socket buffers in provided memory (head:0x0x52c41f00) (497088 bytes used)
-00;04;42;159: WPAD: Application Init00:04:48:074: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:48:074: [WD]>>>> Linkup msg from Net
-00:04:48:084: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:48:087: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:04:48:088: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:04:48:184: [WD]>>>> Linkup msg from Net
-00:04:48:194: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:49:199: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:52:199: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:52:199: [WD]>>>> Linkup msg from Net
-00:04:52:210: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:53:216: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:04:56:216: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:04:56:217: [WD]>>>> Linkup msg from Net
-00:04:56:226: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:04:57:231: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:03:076: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:03:076: [WD]>>>> Linkup msg from Net
-00:05:03:087: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:03:091: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:05:03:091: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:05:03:187: [WD]>>>> Linkup msg from Net
-00:05:03:197: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:04:202: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:07:203: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:07:203: [WD]>>>> Linkup msg from Net
-00:05:07:213: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:08:218: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:11:219: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:11:220: [WD]>>>> Linkup msg from Net
-00:05:11:230: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:12:234: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:18:078: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:18:078: [WD]>>>> Linkup msg from Net
-00:05:18:088: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:18:092: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:05:18:093: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:05:18:189: [WD]>>>> Linkup msg from Net
-00:05:18:199: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:19:204: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:22:205: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:22:205: [WD]>>>> Linkup msg from Net
-00:05:22:215: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:23:220: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:26:222: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:26:222: [WD]>>>> Linkup msg from Net
-00:05:26:232: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:27:236: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:33:080: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:33:081: [WD]>>>> Linkup msg from Net
-00:05:33:090: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:33:094: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:05:33:095: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:05:33:192: [WD]>>>> Linkup msg from Net
-00:05:33:202: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:34:206: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:37:207: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:37:207: [WD]>>>> Linkup msg from Net
-00:05:37:218: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:38:222: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:41:223: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:41:223: [WD]>>>> Linkup msg from Net
-00:05:41:233: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:42:239: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:43:714: MCP: FSA volume on device /dev/sdcard01 (fat) detached @ uptime 343.714 s.
-00:05:44:448: FSA: [uptime 344.448 s]: Attached volume to sdcard01 (fat): Capacity 29819 MB, 61069312 logical blocks of size 512 B.
-00:05:44:448: MCP: FSA volume on device /dev/sdcard01 (fat) attached @ uptime 344.448 s.
-00:05:44:449: MCP: Titles scanned (dev_state 0006) on device /dev/sdcard01 (fat) @ uptime 344.449 s.
-00:05:48:083: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:48:083: [WD]>>>> Linkup msg from Net
-00:05:48:093: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:48:097: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:05:48:098: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:05:48:194: [WD]>>>> Linkup msg from Net
-00:05:48:204: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:49:209: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:51:463: MCP: FSA volume on device /dev/sdcard01 (fat) detached @ uptime 351.463 s.
-00:05:52:210: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:52:210: [WD]>>>> Linkup msg from Net
-00:05:52:220: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:53:225: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:05:56:226: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:05:56:226: [WD]>>>> Linkup msg from Net
-00:05:56:236: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:05:57:241: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:06:03:085: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:06:03:085: [WD]>>>> Linkup msg from Net
-00:06:03:095: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:06:03:099: NET: Change admin state (2 -> 2)(iface:1 link:2)
-00:06:03:099: NET: Change admin state (1 -> 1)(iface:0 link:3)
-00:06:03:202: [WD]>>>> Linkup msg from Net
-00:06:03:211: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:06:04:217: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:06:04:614: FSA: [uptime 364.614 s]: Attached volume to sdcard01 (fat): Capacity 29819 MB, 61069312 logical blocks of size 512 B.
-00:06:04:614: MCP: FSA volume on device /dev/sdcard01 (fat) attached @ uptime 364.614 s.
-00:06:04:615: MCP: Titles scanned (dev_state 0006) on device /dev/sdcard01 (fat) @ uptime 364.615 s.
-00:06:07:218: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:06:07:218: [WD]>>>> Linkup msg from Net
-00:06:07:227: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:06:07:729: MCP: FSA volume on device /dev/sdcard01 (fat) detached @ uptime 367.729 s.
-00:06:08:233: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:06:11:233: NET: Change admin state (2 -> 1)(iface:0 link:2)
-00:06:11:233: [WD]>>>> Linkup msg from Net
-00:06:11:244: wlc_mlme_join_cmd called with Command 0x3 Length 0x21
-00:06:12:249: NET: Change admin state (1 -> 2)(iface:0 link:2)
-00:06:15:581: MCP: discarding ramdisk cache for '/vol/storage_usb01'
-00:06:15:583: UHS0 Trace: DevFsm(EHCI-0/L1/P1/A01): Final teardown.
-00:06:15:583: UMS Trace: Dev(0): Finalize completed with status 0.
-00:06:15:584: MCP: FSA volume on device /dev/usb01 (wfs) detached @ uptime 375.584 s.
-00:06:15:584: MCP: FSA volume on device /dev/usb01 (wfs) detached @ uptime 375.584 s.
-SPM: WARNING: FATAL: Extended Storage (default USB) detached !!!
-00;06;15;502: ACP: ##### FATAL ERROR at FatalDetectionCallback (-1607197568)#####00;06;15;502: SystemFatal(core1)00;06;15;502: Aborting/Abandoning Driver "SNDD_RAMP" (master 15)00;06;15;502: Aborting/Abandoning Driver "SNDD" (master 15)00;06;15;502: Aborting/Abandoning Driver "NETWORK2" (master 15)00;06;15;502: Aborting/Abandoning Driver "HID" (master 15)00;06;15;502: Aborting/Abandoning Driver "CAM" (master 15)00;06;15;502: Aborting/Abandoning Driver "UHS" (master 15)00;06;15;502: Aborting/Abandoning Driver "KPAD" (master 5)00;06;15;502: Aborting/Abandoning Driver "WBC" (master 5)00;06;15;502: Aborting/Abandoning Driver "FS" (master 5)00;06;15;502: Aborting/Abandoning Driver "SND" (master 5)00;06;15;502: Aborting/Abandoning Driver "UVD" (master 5)00;06;15;502: Aborting/Abandoning Driver "ACP" (master 5)00;06;15;502: Aborting/Abandoning Driver "GX2" (master 1)00;06;15;502: Aborting/Abandoning Driver "WPAD" (master 1)00;06;15;502: Aborting/Abandoning Driver "PAD" (master 1)00;06;15;502: Aborting/Abandoning Driver "CLIPBOARD" (master 1)00;06;15;502: Aborting/Abandoning Driver "BUTTON" (master 1)00;06;15;502: Aborting/Abandoning Driver "ACPLOAD" (master 1)00;06;15;502: Aborting/Abandoning Driver "TEST" (master 1)00;06;15;502: Aborting/Abandoning Driver "INPT" (master 1)00;06;15;502: Aborting/Abandoning Driver "SETTING" (master 1)00;06;15;502: Aborting/Abandoning Driver "IPC" (master 1)00;06;15;502: Aborting/Abandoning Driver "CACHE" (master 1)00;06;15;502: Aborting/Abandoning Driver "MEM" (master 1)00;06;15;502: Aborting/Abandoning Driver "NETWORK" (master 1)00;06;15;502: Aborting/Abandoning Driver "NSYSUVD" (master 1)00;06;15;502: Aborting/Abandoning Driver "AVM" (master 1)00;06;15;502: Aborting/Abandoning Driver "DC" (master 1)00;06;15;502: Aborting/Abandoning Driver "TCL" (master 1)00;06;15;502: Aborting/Abandoning Driver "TVE" (master 1)00;06;15;502: Aborting/Abandoning Driver "VPAD" (master 1)00;06;15;502: Aborting/Abandoning Driver "CCR" (master 1)00;06;15;628: *** Process 7 exited with interrupt handler for vector 2 registered on core 1.00;06;15;628: *** Process 7 exited with interrupt handler for vector 3 registered on core 1.00;06;15;628: *** Process 7 exited with interrupt handler for vector 4 registered on core 1.00;06;15;628: *** Process 7 exited with interrupt handler for vector 5 registered on core 1.00;06;15;628: *** Process 7 exited with interrupt handler for vector 6 registered on core 1.00;06;15;628: *** Process 7 exited with interrupt handler for vector 8 registered on core 1.00;06;16;099: SystemFatal - Core 2 resume in error display (6)00;06;16;099: SystemFatal - Core 2 resume in error display (6)00;06;16;099: SystemFatal - Core 2 resume in error display (6)00;06;16;099: !!!Abandoned Interrupt 5 for process 6553500;06;16;099: !!!Abandoned Interrupt 2 for process 6553500;06;16;099: Process 6 Delayed Start Acquire00;06;16;121: OSSetting_SynchronousPrinting DISABLED00;06;16;126: OSSetting_CrashDumpType 0, MINI dump after crash00;06;16;164: TCL(6): init DONE00:06:16:428: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;06;16;308: VPADInit() depricated, no need to call00;06;16;308: port 0 attached00;06;16;309: VPAD Init end, BPERF: (0/376429107) Title PID=600;06;16;312: <><><><><><><> fatal error process called <><><><><><><>00;06;16;312: TYPE: Storage removed(6)00;06;16;312: CODE: 160271300;06;16;312: Process: 1500;06;16;312: Internal Code: -160719756800;06;16;312: Function FatalDetectionCallback, Line:49800;06;16;425: ERPRC: System version: 5.5.5 U00;06;16;425: ERPRC: Serial number: FW91039263900;06;16;425: ERPRC: Model number: WUP-101(02)00;06;16;429: CSC: Product Code: WUP-N-HAAE, Title Version (major): 300;06;16;439: CSC: Repaired: TRUE, Wagon: FALSE00;06;16;457: CSC: InitialLaunch stage: 200;06;16;461: CSC: USB Storage Connected: FALSE, Device Type: NAND00;06;16;495: CSC: RCA Enabled: FALSE, KeepAlive Enabled: FALSE, ParentControl Enable: TRUE00;06;16;504: CSC: Check : /vol/storage_mlc01/usr/boss/00050010/1004a100/user/common/ (-196631)00;06;16;505: CSC: Check : /vol/storage_mlc01/usr/boss/00050010/1004a100/user/80000010/ (-196631)00;06;16;505: CSC: Check : /vol/storage_usb01/usr/boss/00050010/1004a100/user/common/ (-196631)00;06;16;505: CSC: Check : /vol/storage_usb01/usr/boss/00050010/1004a100/user/80000010/ (-196631)00;06;16;505: CSC: Check : /vol/storage_usb02/usr/boss/00050010/1004a100/user/common/ (-196631)00;06;16;506: CSC: Check : /vol/storage_usb02/usr/boss/00050010/1004a100/user/80000010/ (-196631)00;06;16;507: CSC: Boss Storage Exist: FALSE, NetworkID Assigned: FALSE, System Network Connected: FALSE00;06;16;557: CSC: NIC Type: WIFI, DNS obtained by DHCP: TRUE, IP obtained by DHCP: TRUE00;06;16;563: CSC: TV Port: HDMI, TV Aspect Ratio: 16:92022-03-04 16:08:23 - log collection event from pid 20
-00:06:16:694: MCP: life time number of fatal errors - 520

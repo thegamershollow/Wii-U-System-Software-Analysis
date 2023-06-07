@@ -1,167 +1,0 @@
-2023-05-14 08:21:14
-Cafe OS SDK Version 2.13.01 Build 69088 Branch sdk_2_13
-Espresso:       0x0000700100000201
-Latte:          0x0000409f
-System mode:    0x100000
-Boot flags:     0x2000
-Security Level: 0x1e
-Key Type:       0xfffffffc
-Prod Version:   0x5
-Serial:         910392639
-Model:          WUP-101(02)
-Prod Area:      0x2
-Game Area:      0x2
-5GHz Code:      0x7
-BOOT1:          0x20b9
-DRH:            0x190c
-BT:             0x205
-+0x000500301001110a:0x00000064
-+0x000500301001010a:0x000000c5
-+0x0005001010040100:0x00000115
--0x0005001010040100:0x00000115
-+0x0005001010040100:0x00000115
-+0x000500301001410a:0x00000083
--0x000500301001410a:0x00000083
-+0x000500301001610a:0x00000071
-0;00;13;102: Running FunctionPatcherModule v0.2.100;00;13;102: Running MemoryMappingModule v0.2.400;00;13;102: Running PatchMemoryRelocationsModule v0.1.100;00;13;102: Running AromaBaseModule v0.2.200;00;13;119: Running NotificationModule v0.1.000;00;13;119: Running ContentRedirectionModule v0.2.400;00;13;119: Running RPXLoadingModule v0.3.200;00;13;185: Running WiiUPluginLoaderBackend v0.2.300;00;13;784: [(M)       wupsbackend][PluginMetaInformationFactory.cpp]                    loadPlugin@L0123: ##ERROR## Warning: Ignoring plugin - Unsupported WUPS version: 0.1.00;00;13;784: [(M)       wupsbackend][   PluginManagement.cpp]                   loadPlugins@L0169: ##ERROR## Failed to get meta information00;00;14;472: [(P)  homebrew_on_menu][               main.cpp]               on_app_starting@L0310: ##ERROR## No ignore found00;00;14;550: [(M)  content_redirect][             export.cpp]                  CRAddFSLayer@L0101: ##INFO ## Redirecting "/vol/content" to "fs:/vol/external01/wiiu/sdcafiine/0005001010040100/wiiu/content", mode: "merge"00;00;14;551: [(P)         sdcafiine][    modpackSelector.cpp]        ReplaceContentInternal@L0385: ## WARN## Skip /vol/aoc to fs:/vol/external01/wiiu/sdcafiine/0005001010040100/wiiu/aoc redirection. Dir does not exist00:00:14:803: ACP: Mounting "/vol/save/" on "/vol/storage_mlc01/usr/save/00050010/10040100/user/"
-00:00:14:803: ACP: Mount done (0)
-00;00;14;672: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd01: FSA_STATUS_NOT_FOUND00;00;14;673: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd02: FSA_STATUS_NOT_FOUND00;00;14;673: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd03: FSA_STATUS_NOT_FOUND00;00;14;674: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_odd04: FSA_STATUS_NOT_FOUND00;00;14;676: [(L)          libmocha][       devoptab_fsa.cpp]               Mocha_MountFSEx@L0192: ##WARNING## Failed to get DeviceInfo for /vol/storage_usb01: FSA_STATUS_NOT_FOUND00;00;14;678: [barista] Product {:program=>39236, :message=>46262, :programProj=>39257, :root=>39263, :sead=>37528, :resource=>39263}00;00;14;678: [barista] Cafe OS SDK Version 2.12.11 Build 66642 Branch 00;00;14;678: ### Application Start Time [08:21:28] ###00;00;14;678: ================================= MEM_ARENA_2: total free size =  989763(KB),  966(MB)=================================00;00;14;717: [(M)  content_redirect][             export.cpp]                  CRAddFSLayer@L0116: ##INFO ## Redirecting "/vol/save" to "fs:/vol/external01/wiiu/homebrew_on_menu_plugin/FW910392639/save", mode: "replace"00;00;14;719: _GX2PadCB; Check if multiple threads simultaneously writing CB/DL on this coreWPAD: Application Init00:00:15:379: MCP: PID 10 requested to enable power transitions
-00:00:15:379: MCP_PowerButtonControl(1) returned 0
-00;00;15;892: rpl_entry00;00;15;892: OSDynLoad_Acquire() use [2701564]00;00;15;892: ErrEula: client version 3.00;00;15;892: ErrEula: thread=0x4c606540, stackSize=      64 KB, stackBase=0x4c60652c, stackEnd=0x4c5f652c (ErrEulaCreate)00;00;16;331: == sysapp == new path00;00;16;331: ==== sysapp:dump data 91 ====00;00;16;331:         <sys:caller_id size=8>Menu<sys:caller_process size=4>mlc <sys:caller_device size=4>00;00;16;331: ==== sysapp:dump data 0 ====00;00;16;331: 00;00;16;410: ==== sysapp:dump data 0 ====00;00;16;410: 00:00:17:354: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:00:17:377: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.DRMAPP: built Feb  4 2021 16:43:4400:00:20:984: ACP: USB storage is not found
-00;00;35;122: [(M)  content_redirect][             export.cpp]                  CRAddFSLayer@L0116: ##INFO ## Redirecting "/vol/save" to "fs:/vol/external01/wiiu/homebrew_on_menu_plugin/FW910392639/save", mode: "replace"00;01;45;794: rpl_entry00;01;45;794: SWKBD: OSDynLoad_Acquire() use [3133788/3670016]00;01;45;794: SWKBD: client version 3.00;01;45;794: SWKBD: thread=0x2841d230, stackSize=      64 KB, stackBase=0x2841d21c, stackEnd=0x2840d21c (SwkbdCreate)00;01;46;069: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x1069b4f8, stackEnd=0x1068b500 (SwkbdAppearInputForm)00;01;46;069: HWKBD: initialize (region = 1, country code = 17)00;01;46;075: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x1069b4f8, stackEnd=0x1068b500 (SwkbdCalc)00;01;46;078: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x1069b4f8, stackEnd=0x1068b500 (SwkbdCalcSubThreadFont)00;01;46;082: SWKBD: thread=0x11bef778, stackSize=      16 KB, stackBase=0x11bef768, stackEnd=0x11beb768 (SwkbdDrawTV)00;01;46;084: SWKBD: thread=0x11beaee8, stackSize=      16 KB, stackBase=0x11beaed8, stackEnd=0x11be6ed8 (SwkbdDrawDRC)00;01;46;102: SWKBD: thread=0x2843e118, stackSize=      64 KB, stackBase=0x2843e104, stackEnd=0x2842e104 (SwkbdCalcSubThreadPredict)00;01;51;959: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x1069b4f8, stackEnd=0x1068b500 (SwkbdDisappearInputForm)00;01;51;959: HWKBD: Teardown00;02;20;474: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x1069b4f8, stackEnd=0x1068b500 (SwkbdAppearInputForm)00;02;20;474: HWKBD: initialize (region = 1, country code = 17)00;02;26;949: SWKBD: thread=0x100457e0, stackSize=      63 KB, stackBase=0x1069b4f8, stackEnd=0x1068b500 (SwkbdDisappearInputForm)00;02;26;949: HWKBD: Teardown00:06:06:420: MCP: PID 14 requested to disable power transitions
-00;06;06;305: ProcUI: Received Release Foreground message00;06;06;330: ProcUI: Releasing foreground00;06;06;397: mic_drc_attach_cb: ch 0 reason 0 flags 0x0000000000;06;06;437: port 0 detached00;06;06;478: ------------------PROCESS 2 LOST FOREGROUND--------------------00;06;06;479: ------------------PROCESS 5 GAIN FOREGROUND--------------------00:06:06:612: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;06;06;492: port 0 attached00;06;06;532: TCL(5): init DONE00;06;06;586: VPADInit() depricated, no need to call00:06:06:740: MCP: PID 14 requested to enable power transitions
-00;06;06;621: ProcUI: Received Acquire Foreground message00:06:06:948: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:06:06:972: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:06:06:998: IM: home button was pressed by type: IM_PAD_TYPE_NONE index: 0
-00;06;06;878: ==== sysapp:dump data 138 ====00;06;06;878:     <notification_file size=4>        <sys:caller_id size=8>Menu<sys:caller_process size=4>mlc <sys:caller_device size=4>    <mode size=4>00:06:08:010: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:06:08:025: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:06:08:042: IM: home button was pressed by type: IM_PAD_TYPE_NONE index: 0
-00:06:19:831: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:06:19:846: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:06:19:863: IM: home button was pressed by type: IM_PAD_TYPE_NONE index: 0
-00:06:20:346: MCP: PID 14 requested to disable power transitions
-00;06;20;243: ProcUI: Received Release Foreground message00;06;20;410: ProcUI: Releasing foreground00;06;20;518: port 0 detached00;06;20;560: ------------------PROCESS 5 LOST FOREGROUND--------------------00;06;20;561: ------------------PROCESS 2 GAIN FOREGROUND--------------------00:06:20:693: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;06;20;573: port 0 attached00;06;20;609: TCL(2): init DONE00;06;20;663: VPADInit() depricated, no need to call00:06:20:821: MCP: PID 14 requested to enable power transitions
-00;06;20;699: mic_drc_attach_cb: ch 0 reason 1 flags 0x0004010000;06;20;708: ProcUI: Received Acquire Foreground message00;06;21;937: ACP: detecting USB storage in CheckTitleLaunchByTitleListType.00;06;21;938: ACP shim: USB storage is not found.00;06;21;938: ACP: USB storage detection done in CheckTitleLaunchByTitleListType00:06:22:191: ACP: set boot flag: 0x00000000
-00:06:22:571: MCP: PID 14 requested to disable power transitions
-00;06;22;456: ProcUI: Received Release Foreground message00;06;22;479: ProcUI: Releasing foreground00;06;22;547: mic_drc_attach_cb: ch 0 reason 0 flags 0x0000000000;06;22;587: port 0 detached00;06;22;628: ------------------PROCESS 2 LOST FOREGROUND--------------------00;06;22;629: ------------------PROCESS 5 GAIN FOREGROUND--------------------00:06:22:760: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;06;22;640: port 0 attached00;06;22;680: TCL(5): init DONE00;06;22;733: VPADInit() depricated, no need to call00:06:22:888: MCP: PID 14 requested to enable power transitions
-00;06;22;769: ProcUI: Received Acquire Foreground message00:06:23:089: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:06:23:103: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:06:23:123: IM: home button was pressed by type: IM_PAD_TYPE_NONE index: 0
-00;06;23;003: ==== sysapp:dump data 351 ====00;06;23;003:         <sys:caller_id size=8>Menu<sys:caller_process size=4>enu<<sys:caller_device size=4><sys:pack size=91>version=1.0.0&scene=top&src_title_id=0005001010040100&launcher_type=launcher<query size=76>        <sys:caller_id size=8>Menu<sys:caller_process size=4>mlc <sys:caller_device size=4><sys:pack size=291>EShop<switch_app size=5>    <mode size=4>00:06:23:701: MCP: PID 14 requested to disable power transitions
-00;06;23;582: DIAG:Issued KiPrepareTitleAsync(0x000500301001410A)00:06:23:757: MCP: did not find 'preload.txt' at '/vol/storage_mlc01/sys/title/00050030/1001410a/code', rval -196631
-00:06:23:757: MCP: Preparing wave.rpx
-00:06:23:765: MCP: Mapping /vol/content to /vol/storage_mlc01/sys/title/00050030/1001410a/content
-00;06;23;646: DIAG:Result PrepareTitle(0x000500301001410A) came back with cosxml(0x000500301001410A)00;06;23;647: TitleId 0x000500301001410A Version 0x00000083 Built On SDK 2121100;06;23;650: ProcUI: Received Release Foreground message00;06;23;847: ProcUI: Releasing foreground00;06;23;955: port 0 detached00;06;23;996: ------------------PROCESS 5 LOST FOREGROUND--------------------00;06;23;997: DIAG: PhysAlloc(10, 0x1C000000, 0x00000000, 0x02000000, 0x02800000, 0x80000001)00;06;23;997: DIAG: InitAddrSpace00;06;23;997: DIAG: Switch(New)00;06;23;997: DIAG:+Loader(5, 4)00;06;23;997: DIAG:+KiRPLLoaderSetup00;06;23;997: DIAG:-KiRPLLoaderSetup: before no-return call to KiLoadContext (0xEFE09400) (0x01003FFC)00;06;23;997: Title Loc is 000:06:24:255: MCP: PID 14 requested to enable power transitions
-00;06;24;135: DIAG:-Loader(5, 4)00;06;24;136: DIAG: SetFG(4)00;06;24;136: ------------------PROCESS 10 GAIN FOREGROUND--------------------00;06;24;137: SYSLOG_LEVEL 1: Warnings Enabled00;06;24;137: UserMode Core & Thread Initialization (3 Cores)00;06;24;137:   Core 1 Complete, Default Thread 0x100457E000;06;24;139:   Core 0 Complete, MSR 0x00005072, Default Thread 0x1004514000;06;24;140:   Core 2 Complete, MSR 0x00005072, Default Thread 0x10045E8000;06;24;140: Clearing Process MEM2 Arena...00;06;24;336: MEM2 Arena clear complete, size 369 MB, 196ms00;06;24;359: UserMode OS library build date: Feb  4 2021 16:38:5800;06;24;359: __AppFlags: 0x0000020000;06;24;359: OSBlockThreadsOnExit default for sdk version 2121100:06:24:612: ISFS: fs_ops.c(613)Invalid inode name libopenssl.rpl
-00:06:24:612: ISFS: fs_ops.c(613) Invalid inode name libopenssl.rpl
-00:06:24:655: ISFS: fs_ops.c(613)Invalid inode name libwk_peer.rpl
-00:06:24:655: ISFS: fs_ops.c(613) Invalid inode name libwk_peer.rpl
-00:06:24:715: ISFS: fs_ops.c(613)Invalid inode name libpixman.rpl
-00:06:24:715: ISFS: fs_ops.c(613) Invalid inode name libpixman.rpl
-00:06:24:757: ISFS: fs_ops.c(613)Invalid inode name libwk_peer_access.rpl
-00:06:24:757: ISFS: fs_ops.c(613) Invalid inode name libwk_peer_access.rpl
-00:06:24:793: ISFS: fs_ops.c(613)Invalid inode name libfont4_sdk20000.rpl
-00:06:24:793: ISFS: fs_ops.c(613) Invalid inode name libfont4_sdk20000.rpl
-00:06:25:505: ISFS: fs_ops.c(613)Invalid inode name libwkc_wiiu.rpl
-00:06:25:505: ISFS: fs_ops.c(613) Invalid inode name libwkc_wiiu.rpl
-00;06;25;610: SYSAPP: RPL Load00;06;25;628: OSSetting_SynchronousPrinting DISABLED00;06;25;632: OSSetting_CrashDumpType 0, MINI dump after crash00;06;25;670: TCL(10): init DONE00:06:25:840: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;06;25;720: VPADInit() depricated, no need to call00;06;25;721: port 0 attached00;06;25;721: VPAD Init end, BPERF: (0/385841026) Title PID=1000;06;25;757:    ACP_AutoInit: start00;06;25;757:    ACP_AutoInit: ACPInitialize complete00;06;25;758:    ACP_AutoInit: ACPSaveDataInit complete00;06;25;760:    ACP_AutoInit: ACPNotifyPlayEvent complete00;06;25;764:    ACP_AutoInit: NDMInitialize complete00;06;25;764: ACP: initialized00:06:25:896: ACP: Mounting "/vol/save/" on "/vol/storage_mlc01/usr/save/00050030/10014100/user/"
-00:06:25:897: ACP: Mount done (0)
-00;06;25;956: WPAD: WPADRegisterAllocator is deprecated. Call no longer required.00;06;25;956: WPAD: Application Init00:06:26:085: IM: home button was pressed by type: IM_PAD_TYPE_NONE index: 0
-00;06;25;965: VPADInit() depricated, no need to call00;06;26;028: ==== sysapp:dump data 291 ====00;06;26;028:         <sys:caller_id size=8>Menu<sys:caller_process size=4>enu<<sys:caller_device size=4><sys:pack size=91>version=1.0.0&scene=top&src_title_id=0005001010040100&launcher_type=launcher<query size=76>        <sys:caller_id size=8>Menu<sys:caller_process size=4>mlc <sys:caller_device size=4>00;06;26;059:  WARNING: NSSLExportInternalServerCertificate: pCertBuf is not correctly aligned!00;06;26;065:  WARNING: NSSLExportInternalServerCertificate: pCertBuf is not correctly aligned!00;06;26;071:  WARNING: NSSLExportInternalClientCertificate: pCertBuf is not correctly aligned!00;06;26;071:  WARNING: NSSLExportInternalClientCertificate: pPvtKeyBuf is not correctly aligned!00:06:27:696: ISFS: fs_ops.c(613)Invalid inode name mvplayer-gui.rpl
-00:06:27:696: ISFS: fs_ops.c(613) Invalid inode name mvplayer-gui.rpl
-00;06;27;579: Error: Could not load acquired RPL "mvplayer-gui".00;06;27;827: rpl_entry00;06;27;827: SWKBD: OSDynLoad_Acquire() use [3133840/3670016]00;06;27;828: SWKBD: client version 3.00;06;27;828: SWKBD: thread=0x268250c8, stackSize=      64 KB, stackBase=0x26825090, stackEnd=0x26815090 (SwkbdCreate)00:06:29:972: [MCP_ES] failed to open /title/00010001/4646584a/content/title.tmd: rval=-102
-00:06:29:975: [MCP_ES] failed to open /title/00010001/4a414145/content/title.tmd: rval=-102
-00:06:29:977: [MCP_ES] failed to open /title/00010001/4a434245/content/title.tmd: rval=-102
-00:06:29:978: [MCP_ES] failed to open /title/00010001/4a435745/content/title.tmd: rval=-102
-00:06:29:988: [MCP_ES] failed to open /title/00010001/46414745/content/title.tmd: rval=-102
-00:06:29:990: [MCP_ES] failed to open /title/00010001/4e414145/content/title.tmd: rval=-102
-00:06:30:013: [MCP_ES] failed to open /title/00010001/534e4758/content/title.tmd: rval=-102
-00:07:13:274: MCP: PID 10 requested to disable power transitions
-00:07:13:275: MCP_PowerButtonControl(0) returned 0
-00:07:13:291: MCP: PID 10 requested to enable power transitions
-00:07:13:293: MCP_PowerButtonControl(1) returned 0
-00;07;33;435: SWKBD: thread=0x268250c8, stackSize=      64 KB, stackBase=0x26825090, stackEnd=0x26815090 (SwkbdDestroy)00;07;33;442: rpl_entry00;07;33;496: rpl_entry00;07;33;496: OSDynLoad_Acquire() use [2701616]00;07;33;496: ErrEula: client version 3.00;07;33;496: ErrEula: thread=0x268250c8, stackSize=      64 KB, stackBase=0x26825090, stackEnd=0x26815090 (ErrEulaCreate)00:07:33:800: CSC: Product Code: WUP-N-HASE, Title Version (major): 17
-00;07;33;668: ErrEula: thread=0x26835870, stackSize=      64 KB, stackBase=0x26835834, stackEnd=0x26825834 (ErrEulaAppearError)00;07;33;671: ErrEula: thread=0x26835870, stackSize=      64 KB, stackBase=0x26835834, stackEnd=0x26825834 (ErrEulaCalc)00;07;33;671: ErrEula title "110-3021" is error code format00:07:33:811: CSC: Repaired: TRUE, Wagon: FALSE
-00:07:33:816: CSC: InitialLaunch stage: 2
-00:07:33:820: CSC: USB Storage Connected: FALSE, Device Type: NAND
-00:07:33:841: CSC: RCA Enabled: FALSE, KeepAlive Enabled: FALSE, ParentControl Enable: TRUE
-00:07:33:843: CSC: Check : /vol/storage_mlc01/usr/boss/00050010/10040100/user/common/ (-196631)
-00:07:33:843: CSC: Check : /vol/storage_mlc01/usr/boss/00050010/10040100/user/8000000e/ (0)
-00:07:33:845: CSC: Boss Storage Exist: TRUE, NetworkID Assigned: TRUE, System Network Connected: TRUE
-00:07:33:871: CSC: NIC Type: WIFI, DNS obtained by DHCP: TRUE, IP obtained by DHCP: TRUE
-00:07:33:877: CSC: TV Port: HDMI, TV Aspect Ratio: 16:9
-00:07:33:882: CSC: TV Resolution: TV_1080P
-00:07:33:882: CSC: CODE: [HASK-2211-7375]
-2023-05-14 08:28:47 - log collection event from pid 18
-00;07;33;764: (1)5.5.6 U00;07;33;764: (2)WUP-101(02)00;07;33;764: (3)FW91039263900;07;33;764: (4)HASK-2211-737500:07:33:887: MCP: life time number of fatal errors - 593
-00:07:33:888: MCP: storing current logs as '/vol/system/logs/94.log'
-00:07:34:495: MCP: Finished storing current logs as '/vol/system/logs/94.dsc'
-00;07;34;418: ErrEula: thread=0x1244ff00, stackSize=     256 KB, stackBase=0x124905b4, stackEnd=0x124505b4 (ErrEulaDrawTV)00;07;34;418: ErrEula: thread=0x1244ff00, stackSize=     256 KB, stackBase=0x124905b4, stackEnd=0x124505b4 (ErrEulaDrawDRC)00;07;36;973: ErrEula: thread=0x1244ff00, stackSize=     256 KB, stackBase=0x124905b4, stackEnd=0x124505b4 (ErrEulaDisappearError)00;07;37;355: ErrEula: thread=0x268250c8, stackSize=      64 KB, stackBase=0x26825090, stackEnd=0x26815090 (ErrEulaDestroy)00;07;37;357: rpl_entry00;07;37;438: rpl_entry00;07;37;438: SWKBD: OSDynLoad_Acquire() use [3133840/3670016]00;07;37;438: SWKBD: client version 3.00;07;37;438: SWKBD: thread=0x268250c8, stackSize=      64 KB, stackBase=0x26825090, stackEnd=0x26815090 (SwkbdCreate)00:07:41:409: MCP: PID 10 requested to disable power transitions
-00:07:41:410: MCP_PowerButtonControl(0) returned 0
-00:07:41:426: MCP: PID 10 requested to enable power transitions
-00:07:41:426: MCP_PowerButtonControl(1) returned 0
-00:07:42:456: MCP: PID 10 requested to enable power transitions
-00:07:42:456: MCP_PowerButtonControl(1) returned 0
-00:07:49:327: MCP: PID 10 requested to disable power transitions
-00:07:49:327: MCP_PowerButtonControl(0) returned 0
-00:07:49:339: MCP: PID 10 requested to enable power transitions
-00:07:49:339: MCP_PowerButtonControl(1) returned 0
-00:08:06:466: MCP: PID 14 requested to disable power transitions
-00;08;06;346: DRC HOME Button Pressed! 00;08;06;346: __set_button_state : setting state to 300;08;06;349: ProcUI: Received Release Foreground message00;08;08;741: SWKBD: thread=0x268250c8, stackSize=      64 KB, stackBase=0x26825090, stackEnd=0x26815090 (SwkbdDestroy)00;08;08;749: rpl_entry00:08:09:116: MCP: PID 10 requested to enable power transitions
-00:08:09:116: MCP_PowerButtonControl(1) returned 0
-00;08;09;530: ProcUI: Releasing foreground00;08;09;613: port 0 detached00;08;09;654: ------------------PROCESS 10 LOST FOREGROUND--------------------00;08;09;655: ------------------PROCESS 5 GAIN FOREGROUND--------------------00:08:09:806: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;08;09;685: port 0 attached00;08;09;725: TCL(5): init DONE00;08;09;783: VPADInit() depricated, no need to call00:08:09:928: MCP: PID 14 requested to enable power transitions
-00;08;09;809: ProcUI: Received Acquire Foreground message00:08:10:132: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:08:10:154: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:08:10:182: IM: home button was pressed by type: IM_PAD_TYPE_WIIU_DRC index: 0
-00;08;10;062: ==== sysapp:dump data 0 ====00;08;10;062: 00:08:11:724: MCP: PID 14 requested to disable power transitions
-00;08;11;608: ProcUI: Received Release Foreground message00;08;12;139: ProcUI: Releasing foreground00;08;12;248: port 0 detached00;08;12;290: ------------------PROCESS 5 LOST FOREGROUND--------------------00;08;12;290: ------------------PROCESS 2 GAIN FOREGROUND--------------------00:08:12:421: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;08;12;301: port 0 attached00;08;12;337: TCL(2): init DONE00;08;12;390: VPADInit() depricated, no need to call00:08:12:548: MCP: PID 14 requested to enable power transitions
-00;08;12;427: mic_drc_attach_cb: ch 0 reason 1 flags 0x0004010000;08;12;434: ProcUI: Received Acquire Foreground message00;08;31;150: ACP: detecting USB storage in CheckTitleLaunchByTitleListType.00;08;31;150: ACP shim: USB storage is not found.00;08;31;150: ACP: USB storage detection done in CheckTitleLaunchByTitleListType00:08:31:408: ACP: set boot flag: 0x00000000
-00:08:31:797: MCP: PID 14 requested to disable power transitions
-00;08;31;682: ProcUI: Received Release Foreground message00;08;31;708: ProcUI: Releasing foreground00;08;31;776: mic_drc_attach_cb: ch 0 reason 0 flags 0x0000000000;08;31;816: port 0 detached00;08;31;857: ------------------PROCESS 2 LOST FOREGROUND--------------------00;08;31;858: ------------------PROCESS 5 GAIN FOREGROUND--------------------00:08:31:989: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;08;31;869: port 0 attached00;08;31;909: TCL(5): init DONE00;08;31;963: VPADInit() depricated, no need to call00:08:32:117: MCP: PID 14 requested to enable power transitions
-00;08;31;998: ProcUI: Received Acquire Foreground message00:08:32:318: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:08:32:332: FSA: *WARNING!* Data buffer for read request from pid 0xc is not aligned on a 64-byte boundary.
-FSA: It should be 64-byte aligned for file system performance.00:08:32:352: IM: home button was pressed by type: IM_PAD_TYPE_NONE index: 0
-00;08;32;232: ==== sysapp:dump data 10527 ====00;08;32;232: ...skip ( 10015 )...00;08;32;232:                                                                                                                                                                                                                        <miv:jump:ExtraUrl size=256>    <miv:jump:UserPid size=4>    <miv:jump:flags size=4>                                <miv:jump:PostId size=32>        <sys:caller_id size=8>Menu<sys:caller_process size=4>mlc <sys:caller_device size=4><sys:pack size=10462>Miiverse<switch_app size=8>    <mode size=4>00:08:32:913: MCP: PID 14 requested to disable power transitions
-00;08;32;794: DIAG:Issued KiPrepareTitleAsync(0x000500301001610A)00;08;32;794: p10c2,td EXIT message pushed to system queue.00;08;32;794: p10c1 EXIT message retrieved from system queue. main() should exit.00;08;32;794: ProcUI: Received Exit message00;08;32;797: +OSDrivers_Done(p10,c1)00;08;32;797: +OSDrivers_Done(p10,c2)00;08;32;797: __OSShutdownIdleBegin()00;08;32;797: __OSSetMaxSchedulingBand 100;08;32;797: +OSDrivers_Done(p10,c0)00;08;32;797: >x(10, 1)"TEST"00;08;32;797: <x(10, 1)"TEST" 0 ms00;08;32;797: >x(10, 1)"Button"00;08;32;797: <x(10, 1)"Button" 0 ms00;08;32;797: >x(10, 1)"Clipboard"00;08;32;797: <x(10, 1)"Clipboard" 0 ms00;08;32;797: >x(10, 1)"ACP"00:08:33:070: MCP: did not find 'preload.txt' at '/vol/storage_mlc01/sys/title/00050030/1001610a/code', rval -196631
-00:08:33:070: MCP: Preparing wave.rpx
-00;08;32;984: <x(10, 1)"ACP" 187 ms00;08;32;984: >x(10, 1)"ACPLoad"00;08;32;984: <x(10, 1)"ACPLoad" 0 ms00;08;32;984: >x(10, 1)"INPT"00;08;32;984: <x(10, 1)"INPT" 0 ms00;08;32;984: >x(10, 1)"UVD"00;08;32;984: <x(10, 1)"UVD" 0 ms00;08;32;984: >x(10, 1)"ProcUI"00;08;32;984: <x(10, 1)"ProcUI" 0 ms00;08;32;985: >x(10, 1)"AVM"00;08;32;985: <x(10, 1)"AVM" 0 ms00;08;32;985: >x(10, 1)"VPAD"00;08;32;985: <x(10, 1)"VPAD" 0 ms00;08;32;985: >x(10, 0)"WPAD"00;08;32;985: <x(10, 0)"WPAD" 0 ms00;08;32;985: >x(10, 1)"TCL"00;08;32;985: <x(10, 1)"TCL" 0 ms00;08;32;985: >x(10, 1)"CCR"00;08;32;985: <x(10, 1)"CCR" 0 ms00;08;32;985: >x(10, 1)"NETWORK"00;08;32;985: <x(10, 1)"NETWORK" 0 ms00;08;32;985: >x(10, 1)"FS"Fsa profiler has been disabled already.00;08;32;985: <x(10, 1)"FS" 0 ms00;08;32;985: >x(10, 1)"SETTING"00;08;32;985: <x(10, 1)"SETTING" 0 ms00;08;32;985: >x(10, 1)"IPC"00:08:33:114: MCP: Mapping /vol/content to /vol/storage_mlc01/sys/title/00050030/1001610a/content
-00;08;32;986: ABANDONED ORPHANED IPC REPLY FOR RAMPID 400;08;32;986: <x(10, 1)"IPC" 0 ms00;08;32;986: >x(10, 1)"Cache"00;08;32;986: <x(10, 1)"Cache" 0 ms00;08;32;986: >x(10, 1)"MEM"00;08;32;986: <x(10, 1)"MEM" 0 ms00;08;32;986: -OSDrivers_Done(p10,c1)00;08;32;986: -OSDrivers_Done(p10,c0)00;08;32;986: -OSDrivers_Done(p10,c2)00;08;32;988: +IPCKDriver_Cleanup(4)00;08;32;988: -IPCKDriver_Cleanup(4)00;08;32;995: DIAG:Result PrepareTitle(0x000500301001610A) came back with cosxml(0x000500301001610A)00;08;32;996: TitleId 0x000500301001610A Version 0x00000071 Built On SDK 2110600;08;32;999: ProcUI: Received Release Foreground message00;08;33;193: ProcUI: Releasing foreground00;08;33;302: port 0 detached00;08;33;343: ------------------PROCESS 5 LOST FOREGROUND--------------------00;08;33;344: DIAG: PhysAlloc(9, 0x1C000000, 0x00000000, 0x02000000, 0x02800000, 0x80000001)00;08;33;344: DIAG: InitAddrSpace00;08;33;344: DIAG: Switch(New)00;08;33;344: DIAG:+Loader(5, 4)00;08;33;344: DIAG:+KiRPLLoaderSetup00;08;33;344: DIAG:-KiRPLLoaderSetup: before no-return call to KiLoadContext (0xEFE09400) (0x01003FFC)00;08;33;344: Title Loc is 000:08:33:600: MCP: PID 14 requested to enable power transitions
-00;08;33;481: DIAG:-Loader(5, 4)00;08;33;481: DIAG: SetFG(4)00;08;33;481: ------------------PROCESS 9 GAIN FOREGROUND--------------------00;08;33;482: SYSLOG_LEVEL 1: Warnings Enabled00;08;33;482: UserMode Core & Thread Initialization (3 Cores)00;08;33;482:   Core 1 Complete, Default Thread 0x100457E000;08;33;484:   Core 0 Complete, MSR 0x00005072, Default Thread 0x1004514000;08;33;485:   Core 2 Complete, MSR 0x00005072, Default Thread 0x10045E8000;08;33;486: Clearing Process MEM2 Arena...00;08;33;682: MEM2 Arena clear complete, size 369 MB, 196ms00;08;33;704: UserMode OS library build date: Feb  4 2021 16:38:5800;08;33;704: __AppFlags: 0x0000020000;08;33;705: OSBlockThreadsOnExit default for sdk version 2110600:08:33:932: ISFS: fs_ops.c(613)Invalid inode name libopenssl.rpl
-00:08:33:933: ISFS: fs_ops.c(613) Invalid inode name libopenssl.rpl
-00:08:33:975: ISFS: fs_ops.c(613)Invalid inode name libwk_peer.rpl
-00:08:33:975: ISFS: fs_ops.c(613) Invalid inode name libwk_peer.rpl
-00:08:34:033: ISFS: fs_ops.c(613)Invalid inode name libpixman.rpl
-00:08:34:033: ISFS: fs_ops.c(613) Invalid inode name libpixman.rpl
-00:08:34:074: ISFS: fs_ops.c(613)Invalid inode name libwk_peer_access.rpl
-00:08:34:074: ISFS: fs_ops.c(613) Invalid inode name libwk_peer_access.rpl
-00:08:34:110: ISFS: fs_ops.c(613)Invalid inode name libfont4_sdk20000.rpl
-00:08:34:110: ISFS: fs_ops.c(613) Invalid inode name libfont4_sdk20000.rpl
-00:08:34:816: ISFS: fs_ops.c(613)Invalid inode name libwkc_wiiu.rpl
-00:08:34:816: ISFS: fs_ops.c(613) Invalid inode name libwkc_wiiu.rpl
-00;08;34;917: SYSAPP: RPL Load00;08;34;939: OSSetting_SynchronousPrinting DISABLED00;08;34;943: OSSetting_CrashDumpType 0, MINI dump after crash00;08;34;981: TCL(9): init DONE00:08:35:151: ccr_hid_input_start: idx 0 controller: 0, ep 3 int req --> 0
-00;08;35;031: VPADInit() depricated, no need to call00;08;35;031: port 0 attached00;08;35;032: VPAD Init end, BPERF: (0/515151373) Title PID=900;08;35;067:    ACP_AutoInit: start00;08;35;067:    ACP_AutoInit: ACPInitialize complete00;08;35;067:    ACP_AutoInit: ACPSaveDataInit complete00;08;35;071:    ACP_AutoInit: ACPNotifyPlayEvent complete00;08;35;075:    ACP_AutoInit: NDMInitialize complete00;08;35;075: ACP: initialized00;08;35;252: WPAD: WPADRegisterAllocator is deprecated. Call no longer required.00;08;35;252: WPAD: Application Init00:08:35:380: IM: home button was pressed by type: IM_PAD_TYPE_NONE index: 0
-00;08;35;260: VPADInit() depricated, no need to call00;08;35;289:  WARNING: NSSLExportInternalServerCertificate: pCertBuf is not correctly aligned!00;08;35;295:  WARNING: NSSLExportInternalServerCertificate: pCertBuf is not correctly aligned!00;08;35;302:  WARNING: NSSLExportInternalClientCertificate: pCertBuf is not correctly aligned!00;08;35;302:  WARNING: NSSLExportInternalClientCertificate: pPvtKeyBuf is not correctly aligned!00:08:40:593: ACP: Mounting "/vol/save/" on "/vol/storage_mlc01/usr/save/00050030/10016100/user/"
-00:08:40:594: ACP: Mount done (0)
-Result (a119c600)  Level:       (  -3) LEVEL_STATUS  Module:      (  17) RESULT_MODULE_NN_OLV  Description: (640512) undefinedResult (a119c600)  Level:       (  -3) LEVEL_STATUS  Module:      (  17) RESULT_MODULE_NN_OLV  Description: (640512) undefinedResult (a119c600)  Level:       (  -3) LEVEL_STATUS  Module:      (  17) RESULT_MODULE_NN_OLV  Description: (640512) undefined00;08;51;099: rpl_entry00;08;51;099: OSDynLoad_Acquire() use [2701568]00;08;51;099: ErrEula: client version 3.00;08;51;099: ErrEula: thread=0x264abeb8, stackSize=      64 KB, stackBase=0x264abe80, stackEnd=0x2649be80 (ErrEulaCreate)00:08:51:389: CSC: Product Code: WUP-N-HASE, Title Version (major): 17
-00;08;51;262: ErrEula: thread=0x264bc660, stackSize=      64 KB, stackBase=0x264bc624, stackEnd=0x264ac624 (ErrEulaAppearError)00;08;51;262: ErrEula :ErrorCode = 115500400;08;51;262: ErrEula: thread=0x264bc660, stackSize=      64 KB, stackBase=0x264bc624, stackEnd=0x264ac624 (ErrEulaCalc)00:08:51:402: CSC: Repaired: TRUE, Wagon: FALSE
-00:08:51:407: CSC: InitialLaunch stage: 2
-00:08:51:412: CSC: USB Storage Connected: FALSE, Device Type: NAND
-00:08:51:433: CSC: RCA Enabled: FALSE, KeepAlive Enabled: FALSE, ParentControl Enable: TRUE
-00:08:51:435: CSC: Check : /vol/storage_mlc01/usr/boss/00050010/10040100/user/common/ (-196631)
-00:08:51:439: CSC: Check : /vol/storage_mlc01/usr/boss/00050010/10040100/user/8000000e/ (0)
-00:08:51:440: CSC: Boss Storage Exist: TRUE, NetworkID Assigned: TRUE, System Network Connected: TRUE
-00:08:51:465: CSC: NIC Type: WIFI, DNS obtained by DHCP: TRUE, IP obtained by DHCP: TRUE
-00:08:51:471: CSC: TV Port: HDMI, TV Aspect Ratio: 16:9
-00:08:51:478: CSC: TV Resolution: TV_1080P
-00:08:51:478: CSC: CODE: [HASK-2211-7375]
-2023-05-14 08:30:05 - log collection event from pid 18
-00:08:51:479: MCP: life time number of fatal errors - 594
